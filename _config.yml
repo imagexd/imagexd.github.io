@@ -4,7 +4,6 @@ sitename: ImageXD
 url: 		'http://bids.github.io/imagexd/'
 baseurl: 'http://bids.github.io/imagexd/'
 #url: 		'http://localhost:4000'
-#baseurl: 'http://bids.github.io/imagexd/'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
