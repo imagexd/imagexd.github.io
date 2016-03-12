@@ -1,8 +1,8 @@
 title: ImageXD
 description: Image processing across domains
 sitename: ImageXD
-url: 		'http://bids.github.io/imagexd/'
-baseurl: 'http://bids.github.io/imagexd/'
+url: 		'http://imagexd.github.io/imagexd/'
+baseurl: 'http://imagexd.github.io/imagexd/'
 #url: 		'http://localhost:4000'
 sass:
   sass_dir: /assets/_sass
