@@ -1,6 +1,6 @@
 ---
-id: directions
-name: directions
+id: Directions
+name: Directions
 heading: Directions
 ---
 
