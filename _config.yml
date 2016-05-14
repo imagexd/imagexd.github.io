@@ -1,9 +1,9 @@
 title: ImageXD
 description: Image processing across domains
 sitename: ImageXD
-#url: 		'http://www.imagexd.org'
-#baseurl: 'http://www.imagexd.org'
-url: 		'http://localhost:4000'
+url: 		'http://www.imagexd.org'
+baseurl: 'http://www.imagexd.org'
+#url: 		'http://localhost:4000'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
