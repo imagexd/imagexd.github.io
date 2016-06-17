@@ -7,6 +7,9 @@ baseurl: 'http://www.imagexd.org'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
+markdown: kramdown
+kramdown:
+    input: GFM
 collections:
   - features
 exclude:
