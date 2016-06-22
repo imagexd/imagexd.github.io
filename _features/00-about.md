@@ -2,6 +2,7 @@
 id: About
 name: About
 heading: About
+image: "images/landsat.jpg"
 ---
 
 Incredible advances are being made in image processing techniques and tools, but the scientists who use them typically don’t have the opportunity to communicate with scientists who work on similar problems in different domains.

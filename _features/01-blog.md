@@ -2,6 +2,7 @@
 id: Blog
 name: Blog
 heading: Blog
+image: "images/brain.jpg"
 ---
 
 <div class="home">
