@@ -68,6 +68,7 @@ blog post,
 ### Create
 
 On Day 3, several teams assembled to take on a variety of opportunities in data, software, algorithms, and learning. Some outputs	include the following:
+
 - Training: The development of a blueprint that will be used to create a new
 Data Carpentry workshop meant to introduce researchers to modern practices
 in open source image processing. Borrowing from a number of great resources
