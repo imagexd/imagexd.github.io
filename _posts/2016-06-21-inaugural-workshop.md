@@ -43,21 +43,36 @@ The morning speakers addressed topics in computer vision, how we got here, and w
 
 - Daniela Ushizima (Lawrence Berkeley National Lab and BIDS):
 	[From Face Detection to the Faces of Scientific Images](https://www.youtube.com/watch?v=tdg5JcFpALM)
+
+	![Dani]({{ site.baseurl }}/images/DaniUshizima.png)
 - Jitendra Malik (UC Berkeley):
 	[Deep Visual Understanding from Deep Learning](https://www.youtube.com/watch?v=UKY4Y7sHg5g)
+
+	![Jitendra]({{ site.url }}/images/JitendraMalik.png)
 - Susan Fong (Pixar):
 	Image Processing at Scale (video not available)
+
+	![Susan]({{ site.url }}/images/SusanFong.png)
 
 The afternoon speakers shared their experience with image data and workflows at
 different scales:
 
 - Ben Bowen (Lawrence Berkeley National Lab):
 		[Web-Based Analysis of Mass Spectrometry Data](https://www.youtube.com/watch?v=x0SSDNjQr0A)
+
 - Nouamane Laanait (Oak Ridge National Lab):
 		Computer Vision Opportunities in Imaging of Materials (video not available)
+
+	![Nouamane]({{ site.url }}/images/NouamaneLaanait.png)
+
 - Ned Horning (American Museum of Natural History): [Earth Science and Image Processing](https://www.youtube.com/watch?v=KZmwKbZa0ZI)
+
+	<img src="{{ site.url }}/images/NedHorning.jpg" alt="Ned" style="width: 200px;"/>
+
 - Matt Turk (University of Illinois):
     [Imaging and “Me”](https://www.youtube.com/watch?v=K3b7-LUkE-o)
+
+	![Matt]({{ site.url }}/images/MattTurk.png)
 
 Michael Beyeler, a Moore/Sloan Data Science and Washington Research Foundation
 Innovation in Data Science Postdoctoral fellows at UWdid an excellent job
@@ -107,3 +122,5 @@ including academia, industry, non-profit, and government research labs. We hope
 that this combination of real-life and online forums for discussion will provide
 many people with a meeting place, a place to learn more from each and create new
 tools, ideas, and knowledge together.
+
+<img src="{{ site.url }}/images/group-photo.png" alt="Group" style="width: 1000px;"/>
