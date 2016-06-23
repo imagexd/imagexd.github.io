@@ -11,6 +11,8 @@ with others who work on similar problems in different domains. ImageXD was
 founded by Berkeley and Washington partners from the Moore-Sloan Data Science
 Environments (MSDSE) to address these challenges.
 
+<img src="{{ site.url }}/images/group-photo.png" alt="Group" style="width: 1000px;"/>
+
 At the inaugural ImageXD event, held at UC Berkeley’s Institute for Data Science
 (BIDS) on June 7-9, 2016, we gathered 50 researchers from 14 institutions
 representing expertise in computer vision, microscopy, materials imaging,
@@ -25,7 +27,11 @@ lasting impact on the image processing community.
 
 The ImageXD event included different emphases each day:
 
+
 ### Learn
+
+<img class='pull-right' src="{{ site.baseurl }}/images/ImageXD-5.png" style="width: 500px;"/>
+
 On Day 1, the [scikit-image team](http://scikit-image.org/) provided a
 technical workshop introducing methods in python to analyze image data. Their
 [training materials](http://www.imagexd.org/tutorial/) are all openly
@@ -44,15 +50,11 @@ The morning speakers addressed topics in computer vision, how we got here, and w
 - Daniela Ushizima (Lawrence Berkeley National Lab and BIDS):
 	[From Face Detection to the Faces of Scientific Images](https://www.youtube.com/watch?v=tdg5JcFpALM)
 
-	![Dani]({{ site.baseurl }}/images/DaniUshizima.png)
 - Jitendra Malik (UC Berkeley):
 	[Deep Visual Understanding from Deep Learning](https://www.youtube.com/watch?v=UKY4Y7sHg5g)
 
-	![Jitendra]({{ site.url }}/images/JitendraMalik.png)
 - Susan Fong (Pixar):
 	Image Processing at Scale (video not available)
-
-	![Susan]({{ site.url }}/images/SusanFong.png)
 
 The afternoon speakers shared their experience with image data and workflows at
 different scales:
@@ -63,16 +65,10 @@ different scales:
 - Nouamane Laanait (Oak Ridge National Lab):
 		Computer Vision Opportunities in Imaging of Materials (video not available)
 
-	![Nouamane]({{ site.url }}/images/NouamaneLaanait.png)
-
 - Ned Horning (American Museum of Natural History): [Earth Science and Image Processing](https://www.youtube.com/watch?v=KZmwKbZa0ZI)
-
-	<img src="{{ site.url }}/images/NedHorning.jpg" alt="Ned" style="width: 200px;"/>
 
 - Matt Turk (University of Illinois):
     [Imaging and “Me”](https://www.youtube.com/watch?v=K3b7-LUkE-o)
-
-	![Matt]({{ site.url }}/images/MattTurk.png)
 
 Michael Beyeler, a Moore/Sloan Data Science and Washington Research Foundation
 Innovation in Data Science Postdoctoral fellows at UWdid an excellent job
@@ -80,9 +76,12 @@ summarizing each of the above talks in his
 blog post,
 [“ImageXD: New Trends in Image Processing and Computer Vision.”](http://www.askaswiss.com/2016/06/imagexd-new-trends-image-processing-computer-vision.html).
 
+
 ### Create
 
 On Day 3, several teams assembled to take on a variety of opportunities in data, software, algorithms, and learning. Some outputs	include the following:
+
+<img class='pull-right' src="{{ site.baseurl }}/images/ImageXD-9.png" style="width: 400px;"/>
 
 - Training: The development of a blueprint that will be used to create a new
 Data Carpentry workshop meant to introduce researchers to modern practices
@@ -122,5 +121,3 @@ including academia, industry, non-profit, and government research labs. We hope
 that this combination of real-life and online forums for discussion will provide
 many people with a meeting place, a place to learn more from each and create new
 tools, ideas, and knowledge together.
-
-<img src="{{ site.url }}/images/group-photo.png" alt="Group" style="width: 1000px;"/>
