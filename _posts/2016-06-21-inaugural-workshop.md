@@ -89,7 +89,7 @@ in open source image processing. Borrowing from a number of great resources
 and adding a few more, this training will be openly accessible and used by
 Data Carpentry’s certified trainers around the world.
 
--	The Data Augmentation Toolbox: A proof-of-concept for a toolbox that
+-	[The Data Augmentation Toolbox](https://github.com/dani-lbnl/imageXDaugmentation): A proof-of-concept for a toolbox that
 augments image data sets to create large and noisy training sets for machine
 learning applications.
 
