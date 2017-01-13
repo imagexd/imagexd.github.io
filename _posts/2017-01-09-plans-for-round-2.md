@@ -31,6 +31,7 @@ Confirmed speakers include:
 
 - Lydia Ng, Allen Institute for Brain Science
 - Mario Juric, The University of Washington
+- Stella Yu, The University of California, Berkeley
 
 Day 3 will also include break-out sessions, and lightning talks by participants,
 to facilitate discussions, and bring up ideas for projects that can be tackled
