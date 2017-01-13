@@ -29,9 +29,9 @@ On Day 2, selected speakers will share their expertise.
 
 Confirmed speakers include:
 
-- Lydia Ng, Allen Institute for Brain Science
-- Mario Juric, The University of Washington
-- Stella Yu, The University of California, Berkeley
+- [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science
+- [Mario Juric](http://research.majuric.org/public/), The University of Washington
+- [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), The University of California, Berkeley
 
 Day 3 will also include break-out sessions, and lightning talks by participants,
 to facilitate discussions, and bring up ideas for projects that can be tackled
