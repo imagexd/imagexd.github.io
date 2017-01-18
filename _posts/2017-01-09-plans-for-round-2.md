@@ -32,6 +32,7 @@ Confirmed speakers include:
 - [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science
 - [Mario Juric](http://research.majuric.org/public/), The University of Washington
 - [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), The University of California, Berkeley
+- [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington
 
 Day 3 will also include break-out sessions, and lightning talks by participants,
 to facilitate discussions, and bring up ideas for projects that can be tackled
