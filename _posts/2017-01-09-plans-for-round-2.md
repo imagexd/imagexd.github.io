@@ -39,7 +39,7 @@ On Day 2, selected speakers will share their expertise.
 
 12:00 - 1 : Lunch break
 
-1 - 1:30[Kyle Harrington](http://kyleharrington.com/), University of Idaho
+1 - 1:30 [Kyle Harrington](http://kyleharrington.com/), University of Idaho
 
 1:30 - 2:00 [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington
 
