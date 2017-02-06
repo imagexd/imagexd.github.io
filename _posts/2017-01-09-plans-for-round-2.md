@@ -27,16 +27,33 @@ topics, including image processing with artificial neural networks using
 
 On Day 2, selected speakers will share their expertise.
 
-Confirmed speakers include:
+#### Schedule:
 
-- [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science
-- [Mario Juric](http://research.majuric.org/public/), The University of Washington
-- [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), The University of California, Berkeley
-- [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington
+9:00 Welcome
 
-Day 3 will also include break-out sessions, and lightning talks by participants,
-to facilitate discussions, and bring up ideas for projects that can be tackled
-during day 3.
+9:15 - 9:45 [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), The University of California, Berkeley
+
+9:45 - 10:45 Weina Ge, General Electric
+
+11 - 12 Breakout sessions
+
+12:00 - 1 : Lunch break
+
+1 - 1:30[Kyle Harrington](http://kyleharrington.com/), University of Idaho
+
+1:30 - 2:00 [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington
+
+2:00 - 2:30 Claire McQuin, Broad Institute
+
+2:30 - 3 [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science
+
+3:15 - 3:45 [Mario Juric](http://research.majuric.org/public/), The University of Washington
+
+4 - 4:45 : Breakout sessions
+
+4:45 Wrap-up for the day
+
+5 : reception
 
 ### Create
 
