@@ -17,16 +17,23 @@ with each day focused on a different activity:
 
 On Day 1, four tutorials are planned:
 
-- [NumPy, SciPy, and Matplotlib](http://scipy.org), an introduction to numerical analysis with Python
+- [NumPy, SciPy, and Matplotlib](http://scipy.org), an introduction to numerical analysis with Python.
+
   This tutorial is aimed at those familiar with Python, but who have not used NumPy, SciPy,
   and Matplotlib extensively before.
+
 - [TensorFlow](https://www.tensorflow.org/), neural networks in Python.
+
   In this tutorial we learn how to train a neural network using the TensorFlow library, and how to
   then apply it to real-world data.
+
 - [scikit-image](http://scikit-image.org/), image processing in Python.
+
   We introduce the scikit-image library, demonstrate its various capabilities, and
   do several hands-on exercizes to practice its use.
+
 - [ImageJ](https://imagej.nih.gov/ij/), image processing in Java.
+
   We explore ImageJ and its SciJava interface with examples in Python and Clojure.
 
 ### Discuss
