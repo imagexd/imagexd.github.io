@@ -45,13 +45,13 @@ On Day 2, selected speakers will share their expertise.
 
 12:00 - 1 : Lunch break
 
-1 - 1:30 [Kyle Harrington](http://kyleharrington.com/), University of Idaho
+1 - 1:30 [Kyle Harrington](http://kyleharrington.com/), University of Idaho: **Biological Image Analysis using the ImageJ/Fiji Software Ecosystem**
 
 1:30 - 2:00 [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington
 
 2:00 - 2:30 Claire McQuin, Broad Institute
 
-2:30 - 3 [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science
+2:30 - 3 [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science: **Delivering data, tools and knowledge on brain cell types, connections and activity**
 
 3:15 - 3:45 [Mario Juric](http://research.majuric.org/public/), The University of Washington
 
