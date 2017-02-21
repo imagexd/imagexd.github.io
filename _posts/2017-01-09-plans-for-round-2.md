@@ -56,7 +56,7 @@ On Day 2, selected speakers will share their expertise.
 
 1:30 - 2:00 [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington
 
-2:00 - 2:30 Claire McQuin, Broad Institute
+2:00 - 2:30 Claire McQuin, Broad Institute: **Developing High Content Image Analysis Software for Biologists**
 
 2:30 - 3 [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science: **Delivering data, tools and knowledge on brain cell types, connections and activity**
 
