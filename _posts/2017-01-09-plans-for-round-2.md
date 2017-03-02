@@ -36,6 +36,8 @@ On Day 1, four tutorials are planned:
 
   We explore ImageJ and its SciJava interface with examples in Python and Clojure.
 
+- [Vani Mandava](https://www.microsoft.com/en-us/research/people/vanim/) from Microsoft Research will present image processing use-cases of the [Azure](https://azure.microsoft.com/) cloud.
+
 ### Discuss
 
 On Day 2, selected speakers will share their expertise.
