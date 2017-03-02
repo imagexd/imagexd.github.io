@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Planned schedule for ImageXD 2017"
+title:  "ImageXD 2017, The University of Washington eScience Institute, March 29th-31st"
 date:   2017-01-09
 author: Ariel Rokem
 ---
