@@ -7,15 +7,15 @@ author: Ariel Rokem
 
 Following the success of [last year's ImageXD meeting at
 BIDS](http://www.imagexd.org/2016/06/21/inaugural-workshop.html), we are
-organizing a second workshop at the [University of Washington eScience Institute](http://escience.washington.edu)
-in March 2017.
+organizing a second workshop at the [University of Washington eScience Institute](http://escience.washington.edu) 
+March 29-31,2017.
 
 The workshop will follow the three-day format of the workshop from last year
 with each day focused on a different activity:
 
 ### Learn
 
-On Day 1, four tutorials are planned:
+On Day 1 (Wednesday, March 29), four tutorials are planned:
 
 - [NumPy, SciPy, and Matplotlib](http://scipy.org), an introduction to numerical analysis with Python.
 
@@ -40,7 +40,7 @@ On Day 1, four tutorials are planned:
 
 ### Discuss
 
-On Day 2, selected speakers will share their expertise.
+On Day 2 (Thursday, March 30), selected speakers will share their expertise.
 
 #### Schedule:
 
@@ -72,7 +72,7 @@ On Day 2, selected speakers will share their expertise.
 
 ### Create
 
-On Day 3, we will get together to work in teams to develop ideas opportunities
+On Day 3 (Friday, March 31), we will get together to work in teams to develop ideas opportunities
 in data, software, algorithms, and learning. This open format will allow
 participants to learn from each other, work together and explore concepts that
 cross domain boundaries.
