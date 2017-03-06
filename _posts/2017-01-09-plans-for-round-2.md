@@ -56,7 +56,7 @@ On Day 2, selected speakers will share their expertise.
 
 1 - 1:30 [Kyle Harrington](http://kyleharrington.com/), University of Idaho: **Biological Image Analysis using the ImageJ/Fiji Software Ecosystem**
 
-1:30 - 2:00 [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington
+1:30 - 2:00 [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington: **Modeling people from historical photos**
 
 2:00 - 2:30 Claire McQuin, Broad Institute: **Developing High Content Image Analysis Software for Biologists**
 
