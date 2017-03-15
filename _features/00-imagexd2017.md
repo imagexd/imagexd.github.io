@@ -2,7 +2,6 @@
 id: ImageXD17
 name: ImageXD 2017
 heading: ImageXD 2017
-image: "images/white-dwarf.jpg"
 ---
 
 ## Day 1, March 29th
@@ -76,5 +75,6 @@ boundaries.
 
 For visitors from out of town:
 
-http://www.universityinnseattle.com/
-http://www.watertownseattle.com/
+[http://www.universityinnseattle.com/](http://www.universityinnseattle.com/)
+
+[http://www.watertownseattle.com/](http://www.watertownseattle.com/)
