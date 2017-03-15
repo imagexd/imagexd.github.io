@@ -4,9 +4,9 @@ name: ImageXD 2017
 heading: ImageXD 2017
 ---
 
-## Day 1, March 29th
+# Day 1, March 29th
 
-# Learn
+## Learn
 
 Four tutorials are planned:
 
@@ -31,10 +31,10 @@ Four tutorials are planned:
 
 - [Vani Mandava](https://www.microsoft.com/en-us/research/people/vanim/) from Microsoft Research will present image processing use-cases of the [Azure](https://azure.microsoft.com/) cloud.
 
-## Day 2, March 30th
-# Discuss
+# Day 2, March 30th
+## Discuss
 
-#### Schedule:
+### Schedule:
 
 9:00 Welcome
 
@@ -62,9 +62,9 @@ Four tutorials are planned:
 
 5 : reception
 
-## Day 3, March 31st
+# Day 3, March 31st
 
-# Create
+## Create
 
 We will get together to work in teams to develop ideas opportunities in data,
 software, algorithms, and learning. This open format will allow participants to
