@@ -1,21 +1,15 @@
 ---
-layout: post
-title:  "ImageXD 2017, The University of Washington eScience Institute, March 29th-31st"
-date:   2017-01-09
-author: Ariel Rokem
+id: ImageXD17
+name: ImageXD 2017
+heading: ImageXD 2017
+image: "images/white-dwarf.jpg"
 ---
 
-Following the success of [last year's ImageXD meeting at
-BIDS](http://www.imagexd.org/2016/06/21/inaugural-workshop.html), we are
-organizing a second workshop at the [University of Washington eScience Institute](http://escience.washington.edu)
-March 29-31,2017.
+## Day 1, March 29th
 
-The workshop will follow the three-day format of the workshop from last year
-with each day focused on a different activity:
+# Learn
 
-### Learn
-
-On Day 1 (Wednesday, March 29), four tutorials are planned:
+Four tutorials are planned:
 
 - [NumPy, SciPy, and Matplotlib](http://scipy.org), an introduction to numerical analysis with Python.
 
@@ -38,9 +32,8 @@ On Day 1 (Wednesday, March 29), four tutorials are planned:
 
 - [Vani Mandava](https://www.microsoft.com/en-us/research/people/vanim/) from Microsoft Research will present image processing use-cases of the [Azure](https://azure.microsoft.com/) cloud.
 
-### Discuss
-
-On Day 2 (Thursday, March 30), selected speakers will share their expertise.
+## Day 2, March 30th
+# Discuss
 
 #### Schedule:
 
@@ -70,9 +63,18 @@ On Day 2 (Thursday, March 30), selected speakers will share their expertise.
 
 5 : reception
 
-### Create
+## Day 3, March 31st
 
-On Day 3 (Friday, March 31), we will get together to work in teams to develop ideas opportunities
-in data, software, algorithms, and learning. This open format will allow
-participants to learn from each other, work together and explore concepts that
-cross domain boundaries.
+# Create
+
+We will get together to work in teams to develop ideas opportunities in data,
+software, algorithms, and learning. This open format will allow participants to
+learn from each other, work together and explore concepts that cross domain
+boundaries.
+
+## Recommended accomodation:
+
+For visitors from out of town:
+
+http://www.universityinnseattle.com/
+http://www.watertownseattle.com/
