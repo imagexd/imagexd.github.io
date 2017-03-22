@@ -17,3 +17,10 @@ We will be using Keras and TensorFlow.
 First install Tensorflow. Follow the instructions provide [here](https://www.tensorflow.org/install/) for your platform. Once you have completed that, please type `pip install keras`. Depending on your setup, this last command may have to be executed under `sudo` (that is, `sudo pip install keras`)
 
 Materials for the keras tutorial are available [here](https://github.com/arokem/keras-tutorial).
+
+---
+Verify that you have a recent version of the Python Dask library installed:
+
+`pip install dask --upgrade`
+
+Materials for the dask tutorial ara available [here](https://github.com/valentina-s/dask-image-tutorial).
