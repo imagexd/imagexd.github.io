@@ -8,30 +8,34 @@ heading: ImageXD 2017
 
 ## Learn
 
-Four tutorials are planned:
+9:00 - 10:00 : [NumPy, SciPy, and Matplotlib](http://scipy.org), an introduction
+to numerical analysis with Python. This tutorial is aimed at those familiar with
+Python, but who have not used NumPy, SciPy, and Matplotlib extensively before.
 
-- [NumPy, SciPy, and Matplotlib](http://scipy.org), an introduction to numerical analysis with Python.
+10:00 - 11:00 : [scikit-image](http://scikit-image.org/), image processing in
+Python. We introduce the scikit-image library, demonstrate its various
+capabilities, and do several hands-on exercizes to practice its use.
 
-  This tutorial is aimed at those familiar with Python, but who have not used NumPy, SciPy,
-  and Matplotlib extensively before.
+11:00 - 12:00 : [Dask](http://dask.pydata.org/en/latest/) for parallel
+processing.
 
-- [TensorFlow](https://www.tensorflow.org/), neural networks in Python.
+12:00 - 1:00 : lunch break
 
-  In this tutorial we learn how to train a neural network using the TensorFlow library, and how to
-  then apply it to real-world data.
+1:00 - 2:30 : [ImageJ](https://imagej.nih.gov/ij/), image processing in Java. We
+will explore ImageJ and its SciJava interface with examples in Python and
+Clojure.
 
-- [scikit-image](http://scikit-image.org/), image processing in Python.
+2:30 - 4:00 : [Vani Mandava](https://www.microsoft.com/en-us/research/people/vanim/)
+from Microsoft Research will present image processing use-cases of the
+[Azure](https://azure.microsoft.com/) cloud.
 
-  We introduce the scikit-image library, demonstrate its various capabilities, and
-  do several hands-on exercizes to practice its use.
-
-- [ImageJ](https://imagej.nih.gov/ij/), image processing in Java.
-
-  We explore ImageJ and its SciJava interface with examples in Python and Clojure.
-
-- [Vani Mandava](https://www.microsoft.com/en-us/research/people/vanim/) from Microsoft Research will present image processing use-cases of the [Azure](https://azure.microsoft.com/) cloud.
+4:00 - 5:30 : [TensorFlow](https://www.tensorflow.org/) and
+[Keras](https://keras.io/). Deep neural networks in Python. In this tutorial we
+learn how to train a neural network using the TensorFlow library, and how to
+then apply it to scientific data.
 
 # Day 2, March 30th
+
 ## Discuss
 
 ### Schedule:
