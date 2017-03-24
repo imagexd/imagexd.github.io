@@ -8,9 +8,9 @@ heading: ImageXD 2017
 
 ## Learn
 
-Please
+*Please
 [install the required software and datasets](http://www.imagexd.org/2017/03/20/tutorial-materials.html)
-prior to the tutorials.
+prior to the tutorials.*
 
 9:00 - 10:00 : [NumPy, SciPy, and Matplotlib](http://scipy.org), an introduction
 to numerical analysis with Python. This tutorial is aimed at those familiar with
