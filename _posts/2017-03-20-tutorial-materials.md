@@ -121,10 +121,10 @@ Beaker installation instructions are available [here](http://beakernotebook.com/
 ### Numpy, Scipy, Matplotlib, Scikit-image
 There are two ways of downloading the lecture materials:
 
-a) Get the [ZIP file from GitHub](https://github.com/imagexd/imagexd-2017-tutorials/archive/master.zip)
+a) Get the [ZIP file from GitHub](https://github.com/imagexd/2017-tutorials/archive/master.zip)
    
 b) Clone the repository at
-   [https://github.com/imagexd/imagexd-2017-tutorials](https://github.com/imagexd/imagexd-2017-tutorials)
+   [https://github.com/imagexd/2017-tutorials](https://github.com/imagexd/imagexd-2017-tutorials)
    
 ### Dask for Parallel Processing
 Tutorial materials are [here](https://github.com/arokem/keras-tutorial)
