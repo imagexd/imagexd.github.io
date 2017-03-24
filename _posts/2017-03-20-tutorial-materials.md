@@ -7,7 +7,7 @@ author: Ariel Rokem
 
 ## Format
 
-The tutorials consist of lecture segments, followed by hands-on
+The tutorials consist of lecture segments, demos, and hands-on
 exercises.  We strongly encourage you to bring a laptop with all the
 required packages installed in order to participate fully.
 
@@ -17,12 +17,28 @@ We will be using a data-set of cell images kindly provided by Maryana Alegro (UC
 
 ## Lecture materials
 
+### Numpy, Scipy, Matplotlib, Scikit-image
 There are two ways of downloading the lecture materials:
 
 a) Get the `ZIP file from GitHub
    <https://github.com/imagexd/imagexd-2017-tutorials/archive/master.zip>`__
+   
 b) Clone the repository at
    https://github.com/imagexd/imagexd-2017-tutorials
+   
+### Dask for Parallel Processing
+Tutorial materials are [here](https://github.com/arokem/keras-tutorial)
+
+### Tensor Flow and Keras 
+Tutorial materials are [here](https://github.com/valentina-s/dask-image-tutorial)
+
+### ImageJ 
+We will work through the ImageJ beaker tutorial from the imagej-tutorials github repository, which can either be checked out from the repository:
+https://github.com/imagej/tutorials
+
+Or downloaded directly with this link:
+https://github.com/imagej/tutorials/raw/master/ImageJ%20Tutorials%20and%20Demo.bkr
+
 
 Please download the latest version of the material on the morning of the
 tutorials to be sure you have all updates.
@@ -48,6 +64,10 @@ tutorials to be sure you have all updates.
 
   In the next section below, we provide a test script to confirm the
   version numbers on your system.
+
+- Tensor Flow and Keras
+
+   First install Tensorflow. Follow the instructions provide [here](https://www.tensorflow.org/install/) for your platform. Once you have completed that, please type `pip install keras`. Depending on your setup, this last command may have to be executed under `sudo` (that is, `sudo pip install keras`)
 
 - Jupyter
 
@@ -94,4 +114,20 @@ keras 1.2.2
 **If you do not have a working setup, please contact the instructors.
 We have a limited number of hosted online accounts available for
 attendees, but using your own system is highly preferred.**
+
+### ImageJ
+
+- Fiji
+ 
+Installation instructions are available here: http://fiji.sc/#download
+
+For this demo we will use samples that will be fetched from the [imagej.net](image.net) site through the application, so no separate downloads are required.
+ 
+- ImageJ Notebooks 
+ 
+We encourage downloading Beaker and opening the ImageJ tutorials notebook prior to the tutorial. This will automatically fetch the necessary dependencies.
+ 
+Recently the ImageJ community has begun using Beaker Notebook for interactive coding. Beaker is like Jupyter notebook, but is built upon the JVM. It has some unique features that are a bit more challenging to incorporate into Jupyter notebook; in particular, Beaker is a polyglot notebook where switching between languages within a single notebook while maintaining access to the same scope/variables.
+ 
+Beaker installation instructions are available here:  http://beakernotebook.com/getting-started?scroll
 
