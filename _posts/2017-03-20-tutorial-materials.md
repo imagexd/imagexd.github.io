@@ -44,8 +44,7 @@ We will be using a data-set of cell images kindly provided by Maryana Alegro (UC
 
   ```
   conda install numpy scipy matplotlib jupyter scikit-image scikit-learn dask
-  pip install conda tensorflow  # or tensorflow-gpu if you have an NVidia
-                                # graphics card
+  pip install conda tensorflow  # or tensorflow-gpu if you have an Nvidia graphics card
   ```
 
   In any other Python distribution, use pip:
