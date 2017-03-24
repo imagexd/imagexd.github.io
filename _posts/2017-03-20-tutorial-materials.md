@@ -15,34 +15,6 @@ required packages installed in order to participate fully.
 
 We will be using a data-set of cell images kindly provided by Maryana Alegro (UCSF). The data is available to download [here]({{ site.baseurl }}/assets/cells.tar.gz).
 
-## Lecture materials
-
-### Numpy, Scipy, Matplotlib, Scikit-image
-There are two ways of downloading the lecture materials:
-
-a) Get the `ZIP file from GitHub
-   <https://github.com/imagexd/imagexd-2017-tutorials/archive/master.zip>`__
-   
-b) Clone the repository at
-   https://github.com/imagexd/imagexd-2017-tutorials
-   
-### Dask for Parallel Processing
-Tutorial materials are [here](https://github.com/arokem/keras-tutorial)
-
-### Tensor Flow and Keras 
-Tutorial materials are [here](https://github.com/valentina-s/dask-image-tutorial)
-
-### ImageJ 
-We will work through the ImageJ beaker tutorial from the imagej-tutorials github repository, which can either be checked out from the repository:
-https://github.com/imagej/tutorials
-
-Or downloaded directly with this link:
-https://github.com/imagej/tutorials/raw/master/ImageJ%20Tutorials%20and%20Demo.bkr
-
-
-Please download the latest version of the material on the morning of the
-tutorials to be sure you have all updates.
-
 ## Software
 
 ### Python for Science
@@ -111,9 +83,7 @@ tensorflow 1.0.0
 keras 1.2.2
 ```
 
-**If you do not have a working setup, please contact the instructors.
-We have a limited number of hosted online accounts available for
-attendees, but using your own system is highly preferred.**
+**If you do not have a working setup, please contact the instructors.**
 
 ### ImageJ
 
@@ -130,4 +100,31 @@ We encourage downloading Beaker and opening the ImageJ tutorials notebook prior 
 Recently the ImageJ community has begun using Beaker Notebook for interactive coding. Beaker is like Jupyter notebook, but is built upon the JVM. It has some unique features that are a bit more challenging to incorporate into Jupyter notebook; in particular, Beaker is a polyglot notebook where switching between languages within a single notebook while maintaining access to the same scope/variables.
  
 Beaker installation instructions are available here:  http://beakernotebook.com/getting-started?scroll
+
+## Lecture materials
+
+### Numpy, Scipy, Matplotlib, Scikit-image
+There are two ways of downloading the lecture materials:
+
+a) Get the [ZIP file from GitHub](https://github.com/imagexd/imagexd-2017-tutorials/archive/master.zip)
+   
+b) Clone the repository at
+   https://github.com/imagexd/imagexd-2017-tutorials
+   
+### Dask for Parallel Processing
+Tutorial materials are [here](https://github.com/arokem/keras-tutorial)
+
+### Tensor Flow and Keras 
+Tutorial materials are [here](https://github.com/valentina-s/dask-image-tutorial)
+
+### ImageJ 
+We will work through the ImageJ beaker tutorial from the imagej-tutorials github repository, which can either be checked out from the repository:
+https://github.com/imagej/tutorials
+
+Or downloaded directly with this link:
+https://github.com/imagej/tutorials/raw/master/ImageJ%20Tutorials%20and%20Demo.bkr
+
+
+Please download the latest version of the material on the morning of the
+tutorials to be sure you have all updates.
 
