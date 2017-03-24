@@ -5,16 +5,19 @@ date:   2017-03-20
 author: Ariel Rokem
 ---
 
+---
 ## Format
 
 The tutorials consist of lecture segments, demos, and hands-on
 exercises.  We strongly encourage you to bring a laptop with all the
 required packages installed in order to participate fully.
 
+---
 ## Data
 
 We will be using a data-set of cell images kindly provided by Maryana Alegro (UCSF). The data is available to download [here]({{site.baseurl}}/assets/cells.tar.gz).
 
+---
 ## Software
 
 ### Python for Science
@@ -100,7 +103,7 @@ pip install package_name --upgrade
 
 - Fiji
  
-Installation instructions are available here: http://fiji.sc/#download
+Installation instructions are available [here](http://fiji.sc/#download)
 
 For this demo we will use samples that will be fetched from the [imagej.net](image.net) site through the application, so no separate downloads are required.
  
@@ -110,8 +113,9 @@ We encourage downloading Beaker and opening the ImageJ tutorials notebook prior 
  
 Recently the ImageJ community has begun using Beaker Notebook for interactive coding. Beaker is like Jupyter notebook, but is built upon the JVM. It has some unique features that are a bit more challenging to incorporate into Jupyter notebook; in particular, Beaker is a polyglot notebook where switching between languages within a single notebook while maintaining access to the same scope/variables.
  
-Beaker installation instructions are available here:  http://beakernotebook.com/getting-started?scroll
+Beaker installation instructions are available [here](http://beakernotebook.com/getting-started?scroll)
 
+---
 ## Lecture materials
 
 ### Numpy, Scipy, Matplotlib, Scikit-image
@@ -120,7 +124,7 @@ There are two ways of downloading the lecture materials:
 a) Get the [ZIP file from GitHub](https://github.com/imagexd/imagexd-2017-tutorials/archive/master.zip)
    
 b) Clone the repository at
-   https://github.com/imagexd/imagexd-2017-tutorials
+   [https://github.com/imagexd/imagexd-2017-tutorials](https://github.com/imagexd/imagexd-2017-tutorials)
    
 ### Dask for Parallel Processing
 Tutorial materials are [here](https://github.com/arokem/keras-tutorial)
@@ -130,10 +134,9 @@ Tutorial materials are [here](https://github.com/valentina-s/dask-image-tutorial
 
 ### ImageJ 
 We will work through the ImageJ beaker tutorial from the imagej-tutorials github repository, which can either be checked out from the repository:
-https://github.com/imagej/tutorials
+[https://github.com/imagej/tutorials](https://github.com/imagej/tutorials)
 
-Or downloaded directly with this link:
-https://github.com/imagej/tutorials/raw/master/ImageJ%20Tutorials%20and%20Demo.bkr
+Or downloaded directly with this [link](https://github.com/imagej/tutorials/raw/master/ImageJ%20Tutorials%20and%20Demo.bkr)
 
 
 Please download the latest version of the material on the morning of the
