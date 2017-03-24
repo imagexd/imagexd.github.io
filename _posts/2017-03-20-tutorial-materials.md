@@ -84,12 +84,14 @@ keras 1.2.2
 ```
 If you are missing a package or you have an older version you can either install it
 
-```pip install package_name
+```
+pip install package_name
 ```
 
 or upgrade it 
 
-```pip install package_name --upgrade
+```
+pip install package_name --upgrade
 ```
 
 **If you do not have a working setup, please contact the instructors.**
