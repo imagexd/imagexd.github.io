@@ -56,7 +56,7 @@ We will be using a data-set of cell images kindly provided by Maryana Alegro (UC
   In the next section below, we provide a test script to confirm the
   version numbers on your system.
 
-#### Test your setup
+### Test your setup
 
 Please run the following commands inside of Python:
 
