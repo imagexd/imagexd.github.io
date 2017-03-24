@@ -27,7 +27,7 @@ We will be using a data-set of cell images kindly provided by Maryana Alegro (UC
   If you are new to Python, please install the
   [Anaconda distribution](https://www.continuum.io/downloads) for
   **Python version 3** (available on OSX, Linux and Windows).
-  Everyone else, feel free to use your favorite distribution, but
+  Or, feel free to use your favorite distribution, but
   please ensure the requirements below are met:
 
   - `numpy` >= 1.11
@@ -36,24 +36,26 @@ We will be using a data-set of cell images kindly provided by Maryana Alegro (UC
   - `skimage` >= 0.12
   - `sklearn` >= 0.18
   - `dask` >= 0.14
+  - `keras` >= 1.2
+  - `tensorflow` >= 1.0
+  - `notebook` >= 4.0
+
+  In Anaconda, install these packages with:
+
+  ```
+  conda install numpy scipy matplotlib jupyter scikit-image scikit-learn dask
+  pip install conda tensorflow  # or tensorflow-gpu if you have an NVidia
+                                # graphics card
+  ```
+
+  In any other Python distribution, use pip:
+
+  ```
+  pip install numpy scipy matplotlib jupyter scikit-image scikit-learn dask keras tensorflow
+  ```
 
   In the next section below, we provide a test script to confirm the
   version numbers on your system.
-
-- Tensor Flow and Keras
-
-   First install Tensorflow. Follow the instructions provide [here](https://www.tensorflow.org/install/) for your platform. Once you have completed that, please type `pip install keras`. Depending on your setup, this last command may have to be executed under `sudo` (that is, `sudo pip install keras`)
-
-- Jupyter
-
-  The lecture material includes Jupyter notebooks.  Please follow the
-  [Jupyter installation instructions](http://jupyter.readthedocs.io/en/latest/install.html),
-  and ensure you have version 4 or later:
-
-  ```bash
-  $ jupyter --version
-  4.3.0
-  ```
 
 #### Test your setup
 
@@ -68,33 +70,31 @@ import sklearn
 import dask
 import tensorflow as tf
 import keras
+import notebook as nb
 
-for module in (np, sp, mpl, skimage, sklearn, dask, tf, keras):
+for module in (np, sp, mpl, nb, skimage, sklearn, dask, tf, keras):
     print(module.__name__, module.__version__)
 ```
 
 E.g., on my computer, I see:
 
 ```
-numpy 1.12.0
+numpy 1.12.1
 scipy 0.19.0
 matplotlib 2.0.0
+notebook 4.4.1
 skimage 0.13dev
 sklearn 0.18.1
 dask 0.14.0
 tensorflow 1.0.0
-keras 1.2.2
-```
-If you are missing a package or you have an older version you can either install it
-
-```
-pip install package_name
+keras 2.0.2
 ```
 
-or upgrade it 
+To update a package, use:
 
 ```
-pip install package_name --upgrade
+conda upgrade package_name          # for conda
+pip install --upgrade package_name  # for pip
 ```
 
 **If you do not have a working setup, please contact the instructors.**
