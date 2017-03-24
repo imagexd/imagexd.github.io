@@ -13,7 +13,7 @@ required packages installed in order to participate fully.
 
 ## Data
 
-We will be using a data-set of cell images kindly provided by Maryana Alegro (UCSF). The data is available to download [here]({{ site.baseurl }}/assets/cells.tar.gz).
+We will be using a data-set of cell images kindly provided by Maryana Alegro (UCSF). The data is available to download [here]({{site.baseurl}}/assets/cells.tar.gz).
 
 ## Software
 
@@ -81,6 +81,15 @@ sklearn 0.18.1
 dask 0.14.0
 tensorflow 1.0.0
 keras 1.2.2
+```
+If you are missing a package or you have an older version you can either install it
+
+```pip install package_name
+```
+
+or upgrade it 
+
+```pip install package_name --upgrade
 ```
 
 **If you do not have a working setup, please contact the instructors.**
