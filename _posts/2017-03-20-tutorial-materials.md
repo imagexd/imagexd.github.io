@@ -58,26 +58,14 @@ We will be using a data-set of cell images kindly provided by Maryana Alegro (UC
 
 ### Test your setup
 
-Please run the following commands inside of Python:
-
-```
-import numpy as np
-import scipy as sp
-import matplotlib as mpl
-import skimage
-import sklearn
-import dask
-import tensorflow as tf
-import keras
-import notebook as nb
-
-for module in (np, sp, mpl, nb, skimage, sklearn, dask, tf, keras):
-    print(module.__name__, module.__version__)
-```
+Please run
+[this test script](https://raw.githubusercontent.com/imagexd/2017-tutorials/master/check_setup.py)
+to verify your package versions.
 
 E.g., on my computer, I see:
 
 ```
+$ python check_setup.py
 numpy 1.12.1
 scipy 0.19.0
 matplotlib 2.0.0
