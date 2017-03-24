@@ -66,15 +66,16 @@ E.g., on my computer, I see:
 
 ```
 $ python check_setup.py
-numpy 1.12.1
-scipy 0.19.0
-matplotlib 2.0.0
-notebook 4.4.1
-skimage 0.13dev
-sklearn 0.18.1
-dask 0.14.0
-tensorflow 1.0.0
-keras 2.0.2
+[✓] numpy       1.12.1
+[✓] scipy       0.19.0
+[✓] matplotlib  2.0.0
+[✓] notebook    4.3.1
+[✓] skimage     0.13dev
+[✓] sklearn     0.18.1
+[✓] dask        0.14.0
+[✓] tensorflow  1.0.0
+Using Theano backend.
+[✓] keras       2.0.2
 ```
 
 To update a package, use:
