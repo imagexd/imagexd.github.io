@@ -18,7 +18,7 @@ Python, but who have not used NumPy, SciPy, and Matplotlib extensively before.
 
 10:00 - 11:00 : [scikit-image](http://scikit-image.org/), image processing in
 Python. We introduce the scikit-image library, demonstrate its various
-capabilities, and do several hands-on exercizes to practice its use.
+capabilities, and do several hands-on exercises to practice its use.
 
 11:00 - 12:00 : [Dask](http://dask.pydata.org/en/latest/) for parallel
 processing.
