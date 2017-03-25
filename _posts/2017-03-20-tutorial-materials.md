@@ -89,18 +89,18 @@ pip install --upgrade package_name  # for pip
 
 ### ImageJ
 
-- Fiji
- 
+#### Fiji
+
 Installation instructions are available [here](http://fiji.sc/#download)
 
 For this demo we will use samples that will be fetched from the [imagej.net](image.net) site through the application, so no separate downloads are required.
- 
-- ImageJ Notebooks 
- 
+
+#### ImageJ Notebooks
+
 We encourage downloading Beaker and opening the ImageJ tutorials notebook prior to the tutorial. This will automatically fetch the necessary dependencies.
- 
+
 Recently the ImageJ community has begun using Beaker Notebook for interactive coding. Beaker is like Jupyter notebook, but is built upon the JVM. It has some unique features that are a bit more challenging to incorporate into Jupyter notebook; in particular, Beaker is a polyglot notebook where switching between languages within a single notebook while maintaining access to the same scope/variables.
- 
+
 Beaker installation instructions are available [here](http://beakernotebook.com/getting-started?scroll)
 
 ---
@@ -110,17 +110,17 @@ Beaker installation instructions are available [here](http://beakernotebook.com/
 There are two ways of downloading the lecture materials:
 
 a) Get the [ZIP file from GitHub](https://github.com/imagexd/2017-tutorials/archive/master.zip)
-   
+
 b) Clone the repository at
    [https://github.com/imagexd/2017-tutorials](https://github.com/imagexd/imagexd-2017-tutorials)
-   
+
 ### Dask for Parallel Processing
 Tutorial materials are [here](https://github.com/arokem/keras-tutorial)
 
-### Tensor Flow and Keras 
+### Tensor Flow and Keras
 Tutorial materials are [here](https://github.com/valentina-s/dask-image-tutorial)
 
-### ImageJ 
+### ImageJ
 We will work through the ImageJ beaker tutorial from the imagej-tutorials github repository, which can either be checked out from the repository:
 [https://github.com/imagej/tutorials](https://github.com/imagej/tutorials)
 
@@ -129,4 +129,3 @@ Or downloaded directly with this [link](https://github.com/imagej/tutorials/raw/
 
 Please download the latest version of the material on the morning of the
 tutorials to be sure you have all updates.
-
