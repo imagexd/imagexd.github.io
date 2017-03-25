@@ -50,7 +50,7 @@ We will be using a data-set of cell images kindly provided by Maryana Alegro (UC
   In any other Python distribution, use pip:
 
   ```
-  pip install numpy scipy matplotlib jupyter scikit-image scikit-learn dask keras tensorflow
+  pip install numpy scipy matplotlib jupyter scikit-image scikit-learn dask keras tensorflow  # or tensorflow-gpu if you have an Nvidia graphics card
   ```
 
   In the next section below, we provide a test script to confirm the
