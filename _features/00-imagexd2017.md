@@ -16,11 +16,11 @@ prior to the tutorials.**
 to numerical analysis with Python. This tutorial is aimed at those familiar with
 Python, but who have not used NumPy, SciPy, and Matplotlib extensively before.
 
-10:00 - 11:00 : [scikit-image](http://scikit-image.org/), image processing in
+10:00 - 11:30 : [scikit-image](http://scikit-image.org/), image processing in
 Python. We introduce the scikit-image library, demonstrate its various
 capabilities, and do several hands-on exercises to practice its use.
 
-11:00 - 12:00 : [Dask](http://dask.pydata.org/en/latest/) for parallel
+11:30 - 12:00 : [Dask](http://dask.pydata.org/en/latest/) for parallel
 processing.
 
 12:00 - 1:00 : lunch break
