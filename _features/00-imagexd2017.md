@@ -8,6 +8,10 @@ heading: ImageXD 2017
 
 ## Learn
 
+**Please
+[install the required software and datasets](http://www.imagexd.org/2017/03/20/tutorial-materials.html)
+prior to the tutorials.**
+
 9:00 - 10:00 : [NumPy, SciPy, and Matplotlib](http://scipy.org), an introduction
 to numerical analysis with Python. This tutorial is aimed at those familiar with
 Python, but who have not used NumPy, SciPy, and Matplotlib extensively before.
@@ -42,11 +46,9 @@ then apply it to scientific data.
 
 9:00 Welcome
 
-9:15 - 9:45 [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), The
-University of California, Berkeley
+9:15 - 9:45 [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), University of California, Berkeley: **Analysis and image classification**
 
-9:45 - 10:15 [Talita Perciano](http://vis.lbl.gov/~tperciano), Lawrence
-Berkeley National Laboratory
+9:45 - 10:15 [Talita Perciano](http://vis.lbl.gov/~tperciano), Lawrence Berkeley National Lab.: **Image Segmentation Across Domains using Parallel Markov Random Field Technique**
 
 10:30 - 12 Breakout sessions
 
