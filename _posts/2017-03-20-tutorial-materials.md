@@ -93,7 +93,7 @@ pip install --upgrade package_name  # for pip
 
 Installation instructions are available [here](http://fiji.sc/#download)
 
-For this demo we will use samples that will be fetched from the [imagej.net](image.net) site through the application, so no separate downloads are required.
+For this demo we will use samples that will be fetched from the [imagej.net](imagej.net) site through the application, so no separate downloads are required.
 
 #### ImageJ Notebooks
 
@@ -101,7 +101,7 @@ We encourage downloading Beaker and opening the ImageJ tutorials notebook prior 
 
 Recently the ImageJ community has begun using Beaker Notebook for interactive coding. Beaker is like Jupyter notebook, but is built upon the JVM. It has some unique features that are a bit more challenging to incorporate into Jupyter notebook; in particular, Beaker is a polyglot notebook where switching between languages within a single notebook while maintaining access to the same scope/variables.
 
-Beaker installation instructions are available [here](http://beakernotebook.com/getting-started?scroll)
+Beaker installation instructions are available [here](http://beakernotebook.com/getting-started?scroll) (only the "base install" is required).
 
 ---
 ## Lecture materials
