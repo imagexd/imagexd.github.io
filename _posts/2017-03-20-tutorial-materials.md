@@ -112,13 +112,8 @@ There are two ways of downloading the lecture materials:
 a) Get the [ZIP file from GitHub](https://github.com/imagexd/2017-tutorials/archive/master.zip)
 
 b) Clone the repository at
-   [https://github.com/imagexd/2017-tutorials](https://github.com/imagexd/imagexd-2017-tutorials)
+   [https://github.com/imagexd/2017-tutorials](https://github.com/imagexd/2017-tutorials)
 
-### Dask for Parallel Processing
-Tutorial materials are [here](https://github.com/arokem/keras-tutorial)
-
-### Tensor Flow and Keras
-Tutorial materials are [here](https://github.com/valentina-s/dask-image-tutorial)
 
 ### ImageJ
 We will work through the ImageJ beaker tutorial from the imagej-tutorials github repository, which can either be checked out from the repository:
