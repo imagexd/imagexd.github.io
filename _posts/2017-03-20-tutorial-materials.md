@@ -122,5 +122,5 @@ We will work through the ImageJ beaker tutorial from the imagej-tutorials github
 Or downloaded directly with this [link](https://github.com/imagej/tutorials/raw/master/ImageJ%20Tutorials%20and%20Demo.bkr)
 
 
-Please download the latest version of the material on the morning of the
-tutorials to be sure you have all updates.
+*Please download the latest version of the material on the morning of the
+tutorials to be sure you have all updates.*
