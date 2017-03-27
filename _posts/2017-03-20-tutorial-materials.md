@@ -50,7 +50,7 @@ We will be using a data-set of cell images kindly provided by Maryana Alegro (UC
   In any other Python distribution, use pip:
 
   ```
-  pip install numpy scipy matplotlib jupyter scikit-image scikit-learn dask keras tensorflow
+  pip install numpy scipy matplotlib jupyter scikit-image scikit-learn dask keras tensorflow  # or tensorflow-gpu if you have an Nvidia graphics card
   ```
 
   In the next section below, we provide a test script to confirm the
@@ -66,16 +66,16 @@ E.g., on my computer, I see:
 
 ```
 $ python check_setup.py
-[✓] numpy       1.12.1
-[✓] scipy       0.19.0
-[✓] matplotlib  2.0.0
-[✓] notebook    4.3.1
-[✓] skimage     0.13dev
-[✓] sklearn     0.18.1
-[✓] dask        0.14.0
-[✓] tensorflow  1.0.0
+[✓] numpy         1.12.1
+[✓] scipy         0.19.0
+[✓] matplotlib    2.0.0
+[✓] notebook      4.3.1
+[✓] scikit-image  0.13dev
+[✓] scikit-learn  0.18.1
+[✓] dask          0.14.0
+[✓] tensorflow    1.0.0
 Using Theano backend.
-[✓] keras       2.0.2
+[✓] keras         2.0.2
 ```
 
 To update a package, use:
@@ -112,13 +112,8 @@ There are two ways of downloading the lecture materials:
 a) Get the [ZIP file from GitHub](https://github.com/imagexd/2017-tutorials/archive/master.zip)
 
 b) Clone the repository at
-   [https://github.com/imagexd/2017-tutorials](https://github.com/imagexd/imagexd-2017-tutorials)
+   [https://github.com/imagexd/2017-tutorials](https://github.com/imagexd/2017-tutorials)
 
-### Dask for Parallel Processing
-Tutorial materials are [here](https://github.com/arokem/keras-tutorial)
-
-### Tensor Flow and Keras
-Tutorial materials are [here](https://github.com/valentina-s/dask-image-tutorial)
 
 ### ImageJ
 We will work through the ImageJ beaker tutorial from the imagej-tutorials github repository, which can either be checked out from the repository:
@@ -127,5 +122,5 @@ We will work through the ImageJ beaker tutorial from the imagej-tutorials github
 Or downloaded directly with this [link](https://github.com/imagej/tutorials/raw/master/ImageJ%20Tutorials%20and%20Demo.bkr)
 
 
-Please download the latest version of the material on the morning of the
-tutorials to be sure you have all updates.
+*Please download the latest version of the material on the morning of the
+tutorials to be sure you have all updates.*
