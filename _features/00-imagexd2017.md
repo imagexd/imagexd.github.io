@@ -79,6 +79,16 @@ software, algorithms, and learning. This open format will allow participants to
 learn from each other, work together and explore concepts that cross domain
 boundaries.
 
+9:00 - 10:00 : Project ideas discussion
+
+10:00 - 12:00 : Group work
+
+1:00 - 1:30 : Updates
+
+1:30 - 4:30 : Group work
+
+4:30 - 5:00 : Final presentations
+
 ## Recommended accomodation:
 
 For visitors from out of town:
