@@ -12,6 +12,8 @@ heading: ImageXD 2017
 [install the required software and datasets](http://www.imagexd.org/2017/03/20/tutorial-materials.html)
 prior to the tutorials.**
 
+8:30 - 9:00 : Coffee
+
 9:00–10:00 : [NumPy, SciPy, and Matplotlib](http://scipy.org), an introduction
 to numerical analysis with Python. This tutorial is aimed at those familiar with
 Python, but who have not used NumPy, SciPy, and Matplotlib extensively before.
@@ -44,7 +46,9 @@ then apply it to scientific data.
 
 ### Schedule:
 
-9:00 Welcome
+8:30 - 9:00 : Coffee
+
+9:00 : Welcome
 
 9:15–9:45 : [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), University of California, Berkeley: **Analysis and image classification**
 
@@ -78,6 +82,8 @@ We will get together and work in teams to develop ideas around data,
 software, algorithms, and learning. This open format will allow
 participants to learn from each other, work together, and explore
 concepts that cross domain boundaries.
+
+8:30 - 9:00 : Coffee
 
 9:00 - 10:00 : Project ideas discussion
 
