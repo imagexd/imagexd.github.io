@@ -25,7 +25,7 @@ capabilities, and do several hands-on exercises to practice its use.
 11:30–12:00 : [Dask](http://dask.pydata.org/en/latest/) for parallel
 processing.
 
-12:00–1:00 : lunch break
+12:00–1:00 : Lunch (on your own)
 
 1:00–2:30 : [ImageJ](https://imagej.nih.gov/ij/), image processing in Java. We
 will explore ImageJ and its SciJava interface with examples in Python and
@@ -88,6 +88,8 @@ concepts that cross domain boundaries.
 9:00 - 10:00 : Project ideas discussion
 
 10:00 - 12:00 : Group work
+
+12:00 - 1:00 : Lunch (on your own)
 
 1:00 - 1:30 : Updates
 
