@@ -15,7 +15,13 @@ required packages installed in order to participate fully.
 ---
 ## Data
 
-We will be using a data-set of cell images kindly provided by Maryana Alegro (UCSF). The data is available to download [here]({{site.baseurl}}/assets/cells.tar.gz).
+Some of the tutorials will be using a data-set of cell images kindly provided by
+Maryana Alegro (UCSF). The data is available to download
+[here]({{site.baseurl}}/assets/cells.tar.gz).
+
+The Azure tutorial will use an image data-set described
+[in this webpage](https://dani-lbnl.github.io/ImageXD_2017/). Please use the
+link on the page to download the data.
 
 ---
 ## Software
@@ -120,6 +126,14 @@ We will work through the ImageJ beaker tutorial from the imagej-tutorials github
 [https://github.com/imagej/tutorials](https://github.com/imagej/tutorials)
 
 Or downloaded directly with this [link](https://github.com/imagej/tutorials/raw/master/ImageJ%20Tutorials%20and%20Demo.bkr)
+
+### Image Classification using Azure
+
+In this tutorial, we will build an SVM based image classifier using Azure
+Machine Learning. You will learn how to use Azure storage, get familiar with the
+Azure portal, and with Azure Machine Learning. Participants will be given $500
+worth of Azure credits that will be valid for one month
+
 
 
 *Please download the latest version of the material on the morning of the
