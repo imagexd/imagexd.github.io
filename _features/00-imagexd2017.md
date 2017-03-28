@@ -35,7 +35,7 @@ Clojure.
 from Microsoft Research will present image processing use-cases of the
 [Azure](https://azure.microsoft.com/) cloud.
 
-4:00–5:30 : [TensorFlow](https://www.tensorflow.org/) and
+4:00–5:00 : [TensorFlow](https://www.tensorflow.org/) and
 [Keras](https://keras.io/). Deep neural networks in Python. In this tutorial we
 learn how to train a neural network using the TensorFlow library, and how to
 then apply it to scientific data.
