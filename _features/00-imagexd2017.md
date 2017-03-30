@@ -50,7 +50,7 @@ then apply it to scientific data.
 
 9:00 : Welcome
 
-9:15–9:45 : [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), University of California, Berkeley: **Analysis and image classification**
+9:15–9:45 : [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), University of California, Berkeley: **Learning to See the Image, Seeing to Learn the World**
 
 9:45–10:15 : [Talita Perciano](http://vis.lbl.gov/~tperciano), Lawrence Berkeley National Lab.: **Image Segmentation Across Domains using Parallel Markov Random Field Technique**
 
