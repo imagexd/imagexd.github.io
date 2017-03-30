@@ -44,6 +44,8 @@ then apply it to scientific data.
 
 ## Discuss
 
+[Notes](https://docs.google.com/document/d/1KrPXkQN4_hWGzIFXvL6Bw3h0slc_jCF3FrfmDHwtNrk/edit?usp=sharing)
+
 ### Schedule:
 
 8:30 - 9:00 : Coffee
