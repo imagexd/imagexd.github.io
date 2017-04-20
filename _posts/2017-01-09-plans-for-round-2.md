@@ -46,9 +46,9 @@ On Day 2 (Thursday, March 30), selected speakers will share their expertise.
 
 9:00 Welcome
 
-9:15 - 9:45 [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), The University of California, Berkeley
+9:15 - 9:45 [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), The University of California, Berkeley: [**Learning to See the Image**]({{site.baseurl}}/presentations/Stella_Yu.pdf)
 
-9:45 - 10:15 [Talita Perciano](http://vis.lbl.gov/~tperciano), Lawrence Berkeley National Laboratory
+9:45 - 10:15 [Talita Perciano](http://vis.lbl.gov/~tperciano), Lawrence Berkeley National LaboratorY: [**Image Segmentation Across Domains using Parallel Markov Random Field Technique**]({{site.baseurl}}/presentations/ImageXD_Perciano.pdf)
 
 10:30 - 12 Breakout sessions
 
@@ -58,11 +58,11 @@ On Day 2 (Thursday, March 30), selected speakers will share their expertise.
 
 1:30 - 2:00 [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington: **Modeling people from historical photos**
 
-2:00 - 2:30 Claire McQuin, Broad Institute: **Developing High Content Image Analysis Software for Biologists**
+2:00 - 2:30 Claire McQuin, Broad Institute: [**Developing High Content Image Analysis Software for Biologists**](https://www.slideshare.net/ClaireMcQuin/developing-high-content-image-analysis-software-for-biologists)
 
-2:30 - 3 [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science: **Delivering data, tools and knowledge on brain cell types, connections and activity**
+2:30 - 3 [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science: [**Delivering data, tools and knowledge on brain cell types, connections and activity**]({{site.baseurl}}/presentations/Lydia Ng - 2017_0329_ImageXD_UW_Lydia.pdf)
 
-3:15 - 3:45 [Mario Juric](http://research.majuric.org/public/), The University of Washington: **Object Detection in Astronomy: Current Practice & Challenges Going Forward**
+3:15 - 3:45 [Mario Juric](http://research.majuric.org/public/), The University of Washington: [**Object Detection in Astronomy: Current Practice & Challenges Going Forward**]({{site.baseurl}}/presentations/ImageXD-Astronomical-Image-Processing-Presented.pdf)
 
 4 - 4:45 : Breakout sessions
 
