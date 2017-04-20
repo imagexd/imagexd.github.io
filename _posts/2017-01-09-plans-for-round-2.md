@@ -58,11 +58,11 @@ On Day 2 (Thursday, March 30), selected speakers will share their expertise.
 
 1:30 - 2:00 [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington: **Modeling people from historical photos**
 
-2:00 - 2:30 Claire McQuin, Broad Institute: **Developing High Content Image Analysis Software for Biologists**
+2:00 - 2:30 Claire McQuin, Broad Institute: [**Developing High Content Image Analysis Software for Biologists**](https://www.slideshare.net/ClaireMcQuin/developing-high-content-image-analysis-software-for-biologists)
 
 2:30 - 3 [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science: **Delivering data, tools and knowledge on brain cell types, connections and activity**
 
-3:15 - 3:45 [Mario Juric](http://research.majuric.org/public/), The University of Washington: **Object Detection in Astronomy: Current Practice & Challenges Going Forward**
+3:15 - 3:45 [Mario Juric](http://research.majuric.org/public/), The University of Washington: [**Object Detection in Astronomy: Current Practice & Challenges Going Forward**](base_url/presentations/ImageXD-Astronomical-Image-Processing-Presented.pdf)
 
 4 - 4:45 : Breakout sessions
 
