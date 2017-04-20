@@ -66,7 +66,7 @@ then apply it to scientific data.
 
 2:00–2:30 : Claire McQuin, Broad Institute: [**Developing High Content Image Analysis Software for Biologists**](https://www.slideshare.net/ClaireMcQuin/developing-high-content-image-analysis-software-for-biologists)
 
-2:30–3:00 : [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science: [**Delivering data, tools and knowledge on brain cell types, connections and activity**]({{site.baseurl}}/presentations/Lydia%20Ng%20-%202017_0329_ImageXD_UW_Lydia.pdf)
+2:30–3:00 : [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science: [**Delivering data, tools and knowledge on brain cell types, connections and activity**]({{site.baseurl}}/presentations/LydiaNg.pdf)
 
 3:15–3:45 : [Kyle Harrington](http://kyleharrington.com/), University of Idaho: **Biological Image Analysis using the ImageJ/Fiji Software Ecosystem**
 
