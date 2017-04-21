@@ -54,19 +54,19 @@ then apply it to scientific data.
 
 9:15–9:45 : [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/), University of California, Berkeley: **Learning to See the Image, Seeing to Learn the World**
 
-9:45–10:15 : [Talita Perciano](http://vis.lbl.gov/~tperciano), Lawrence Berkeley National Lab.: **Image Segmentation Across Domains using Parallel Markov Random Field Technique**
+9:45–10:15 : [Talita Perciano](http://vis.lbl.gov/~tperciano), Lawrence Berkeley National Lab.: **Image Segmentation Across Domains using Parallel Markov Random Field Technique**. [Video](https://youtu.be/ou6vn5EiruM?list=PLA6PlfxWZPLQ097Q50htN-ndEZcHp9knc).
 
 10:30–12:00 : Breakout sessions
 
 12:00–1:00 : Lunch break
 
-1:00–1:30 : [Mario Juric](http://research.majuric.org/public/), The University of Washington: **Object Detection in Astronomy: Current Practice & Challenges Going Forward**
+1:00–1:30 : [Mario Juric](http://research.majuric.org/public/), The University of Washington: **Object Detection in Astronomy: Current Practice & Challenges Going Forward**.
 
-1:30–2:00 : [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington: **Modeling people from historical photos**
+1:30–2:00 : [Ira Kemelmacher-Shlizerman](http://homes.cs.washington.edu/~kemelmi/), The University of Washington: **Modeling people from historical photos**. [Video](https://youtu.be/DE3UH0g--zo?list=PLA6PlfxWZPLQ097Q50htN-ndEZcHp9knc).
 
-2:00–2:30 : Claire McQuin, Broad Institute: **Developing High Content Image Analysis Software for Biologists**
+2:00–2:30 : Claire McQuin, Broad Institute: **Developing High Content Image Analysis Software for Biologists**. [Video](https://youtu.be/6xJf1SBxvmU?list=PLA6PlfxWZPLQ097Q50htN-ndEZcHp9knc).
 
-2:30–3:00 : [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science: **Delivering data, tools and knowledge on brain cell types, connections and activity**
+2:30–3:00 : [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science: **Delivering data, tools and knowledge on brain cell types, connections and activity**. [Video](https://youtu.be/RpvNfcWi3Kc?list=PLA6PlfxWZPLQ097Q50htN-ndEZcHp9knc).
 
 3:15–3:45 : [Kyle Harrington](http://kyleharrington.com/), University of Idaho: **Biological Image Analysis using the ImageJ/Fiji Software Ecosystem**
 
