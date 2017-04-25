@@ -69,7 +69,7 @@ then apply it to scientific data.
 2:30–3:00 : [Lydia Ng](https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lydia-ng/), Allen Institute for Brain Science: [**Delivering data, tools and knowledge on brain cell types, connections and activity**]({{site.baseurl}}/presentations/LydiaNg.pdf). [Video](https://youtu.be/RpvNfcWi3Kc?list=PLA6PlfxWZPLQ097Q50htN-ndEZcHp9knc).
 
 
-3:15–3:45 : [Kyle Harrington](http://kyleharrington.com/), University of Idaho: **Biological Image Analysis using the ImageJ/Fiji Software Ecosystem**
+3:15–3:45 : [Kyle Harrington](http://kyleharrington.com/), University of Idaho: [**Biological Image Analysis using the ImageJ/Fiji Software Ecosystem**]({{site.baseurl}}/presentations/2017_03_30_ImageXD_DistributionCopy.pdf)
 
 4:00–4:45 : Breakout sessions
 
