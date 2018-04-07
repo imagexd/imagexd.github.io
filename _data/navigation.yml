@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: "Registration 2018"
+  url: /Registration/
+  excerpt:
+  image:
+
+- title: "Workshops"
+  url: /workshops/
+  excerpt:
+  image:
+
+- title: "Team"
+  url: /team/
+  excerpt:
+  image:
+
+- title: "About"
+  url: /about/
+  excerpt:
+  image:
