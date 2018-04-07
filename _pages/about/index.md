@@ -1,6 +1,5 @@
 ---
 layout: archive
-permalink: /about.html
 title: "About"
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: article
-permalink: /registration.html
-title: "Registration Info"
+title: "Registration & Info"
 #date: 2014-06-25T13:57:25-04:00
 #modified: 2016-06-01T16:21:57-04:00
 excerpt:

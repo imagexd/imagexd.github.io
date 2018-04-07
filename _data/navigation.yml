@@ -1,21 +1,21 @@
 # Site navigation links
 
 - title: "Registration 2018"
-  url: /Registration/
-  excerpt:
+  url: /registration/
+  excerpt: Information for current workshop
   image:
 
 - title: "Workshops"
   url: /workshops/
-  excerpt:
+  excerpt: Past workshops
   image:
 
 - title: "Team"
   url: /team/
-  excerpt:
+  excerpt: Meet an interdisciplinary mix of thinkers, makers, and doers.
   image:
 
 - title: "About"
   url: /about/
-  excerpt:
+  excerpt: Read our mission statement.
   image:

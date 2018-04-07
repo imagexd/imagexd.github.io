@@ -1,7 +1,6 @@
 ---
 layout: archive
-permalink: /workshops.html
-title: "Workshops"
+title: "Past Workshops"
 date: 
 modified:
 excerpt: "A collection of our thoughts, inspiration, collaboration, and other minutia."
@@ -12,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.posts %}
+{% for post in site.categories.workshops %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

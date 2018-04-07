@@ -14,7 +14,7 @@ feed:
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:title/
+permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
@@ -24,7 +24,6 @@ gems:
   - jekyll-feed
 include: 
   - _pages
-  - _posts
   - .htaccess
 
 # Site owner
