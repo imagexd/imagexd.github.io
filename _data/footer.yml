@@ -3,11 +3,11 @@
 - title: Home
   url: /
 
-# - title: Getting Started
-#   url: /getting-started/
+- title: Workshops
+  url: /workshops/
 
-# - title: About
-#   url: /about/
+- title: About
+  url: /about/
 
-# - title: Terms
-#   url: /terms/
+- title: Team
+  url: /team/

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-04-07T16:28:09-07:00</updated><id>/</id><title>ImageXD</title><subtitle>This is an awesome site for Image Processing Across Domain.</subtitle><entry><title>ImageXD Workshop 2017</title><link href="/workshops/workshop2017/" rel="alternate" type="text/html" title="ImageXD Workshop 2017" /><published>2017-03-29T00:00:00-07:00</published><updated>2017-03-29T00:00:00-07:00</updated><id>/workshops/workshop2017</id><content type="html" xml:base="/workshops/workshop2017/">&lt;nav class=&quot;toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-04-08T02:36:11-07:00</updated><id>/</id><title>ImageXD</title><subtitle>This is an awesome site for Image Processing Across Domain.</subtitle><entry><title>ImageXD Workshop 2017</title><link href="/workshops/workshop2017/" rel="alternate" type="text/html" title="ImageXD Workshop 2017" /><published>2017-03-29T00:00:00-07:00</published><updated>2017-03-29T00:00:00-07:00</updated><id>/workshops/workshop2017</id><content type="html" xml:base="/workshops/workshop2017/">&lt;nav class=&quot;toc&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#day-1-march-29th&quot; id=&quot;markdown-toc-day-1-march-29th&quot;&gt;Day 1, March 29th&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#day-2-march-30th&quot; id=&quot;markdown-toc-day-2-march-30th&quot;&gt;Day 2, March 30th&lt;/a&gt;&lt;/li&gt;
@@ -100,7 +100,7 @@ concepts that cross domain boundaries.&lt;/p&gt;
 
 &lt;p&gt;1:30 - 4:30 : Group work&lt;/p&gt;
 
-&lt;p&gt;4:30 - 5:00 : Final presentations&lt;/p&gt;</content><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;feature&quot;=&gt;nil, &quot;teaser&quot;=&gt;&quot;logo_eScience_2.png&quot;}" /></entry><entry><title>ImageXD Workshop 2016</title><link href="/workshops/workshop2016/" rel="alternate" type="text/html" title="ImageXD Workshop 2016" /><published>2016-06-07T00:00:00-07:00</published><updated>2016-06-07T00:00:00-07:00</updated><id>/workshops/workshop2016</id><content type="html" xml:base="/workshops/workshop2016/">&lt;p&gt;At the inaugural ImageXD event, held at UC Berkeley’s Institute for Data Science (BIDS) on June 7-9, 2016, we gathered 50 researchers from 14 institutions representing expertise in computer vision, microscopy, materials imaging, photography, earth science, neuroscience, astronomy, software development, and more.&lt;/p&gt;
+&lt;p&gt;4:30 - 5:00 : Final presentations&lt;/p&gt;</content><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;feature&quot;=&gt;&quot;group-photo-2017.png&quot;, &quot;teaser&quot;=&gt;&quot;logo_eScience_2.png&quot;}" /></entry><entry><title>ImageXD Workshop 2016</title><link href="/workshops/workshop2016/" rel="alternate" type="text/html" title="ImageXD Workshop 2016" /><published>2016-06-07T00:00:00-07:00</published><updated>2016-06-07T00:00:00-07:00</updated><id>/workshops/workshop2016</id><content type="html" xml:base="/workshops/workshop2016/">&lt;p&gt;At the inaugural ImageXD event, held at UC Berkeley’s Institute for Data Science (BIDS) on June 7-9, 2016, we gathered 50 researchers from 14 institutions representing expertise in computer vision, microscopy, materials imaging, photography, earth science, neuroscience, astronomy, software development, and more.&lt;/p&gt;
 
 &lt;p&gt;The common bond between all of these researchers coming from different domains is that they work with images as a primary source of data. Throughout the event, we learned from one another while strengthening ties across disciplinary boundaries and began the development of collaborations that we hope will have a lasting impact on the image processing community.&lt;/p&gt;
 
@@ -117,7 +117,7 @@ concepts that cross domain boundaries.&lt;/p&gt;
 
 &lt;h2 id=&quot;learn&quot;&gt;Learn&lt;/h2&gt;
 
-&lt;p&gt;&lt;img class=&quot;pull-right&quot; src=&quot;/images/group-photo-2016-learn.png&quot; style=&quot;width: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;pull-right gap-left&quot; src=&quot;/images/group-photo-2016-learn.png&quot; style=&quot;width: 250px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;On Day 1, the &lt;a href=&quot;http://scikit-image.org/&quot;&gt;scikit-image team&lt;/a&gt; provided a technical workshop introducing methods in python to analyze image data. Their &lt;a href=&quot;http://www.imagexd.org/tutorial/&quot;&gt;training materials&lt;/a&gt; are all openly available. Participants who were new to these approaches were also able to join a two-day &lt;a href=&quot;http://software-carpentry.org/&quot;&gt;Software Carpentry&lt;/a&gt; workshop ahead of ImageXD to learn the basics.&lt;/p&gt;
 
@@ -168,7 +168,7 @@ concepts that cross domain boundaries.&lt;/p&gt;
 
 &lt;p&gt;On Day 3, several teams assembled to take on a variety of opportunities in data, software, algorithms, and learning. Some outputs	include the following:&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;pull-right&quot; src=&quot;/images/group-photo-2016-create.png&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;pull-right  gap-left&quot; src=&quot;/images/group-photo-2016-create.png&quot; style=&quot;width: 250px;&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
