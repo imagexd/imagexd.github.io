@@ -51,7 +51,7 @@ Meet an interdisciplinary mix of thinkers, makers, and doers!
 
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/ElizabethBrashers.png" style="width: 150px;"/>
-  <h2 class="post-title center-block">VElizabeth Brashers, MBA</h2>
+  <h2 class="post-title center-block">Elizabeth Brashers, MBA</h2>
   <p class="post-excerpt">Assistant Dean <br/> UC Berkeley-UCSF Campus Liaison</p>
 </div><!-- /.tile -->
 
