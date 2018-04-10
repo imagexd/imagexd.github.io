@@ -26,7 +26,7 @@ Berkeley, CA 94720 <br />
 
 ### Who?
 
-ImageXD workshops are open to faculty, and staff scientists, post-docs, researchers and gradudate students across all disciplines, from universities, industry and national labs in the Bay Area and beyond.
+ImageXD workshops are open to faculty, and staff scientists, post-docs, researchers and graduate students across all disciplines, from universities, industry and national labs in the Bay Area and beyond.
 
 <a href="https://docs.google.com/forms/d/13gRMnLP3MTd3g6JoxfTZT0vBZqa10dE3Gg5HOwRR82Y/" class="btn"> Registration </a>
 
