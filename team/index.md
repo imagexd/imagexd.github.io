@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Team"
+title: "Organizing Team"
 ---
 
-Meet an interdisciplinary mix of thinkers, makers, and doers!
+Meet the ImageXD 2018 Organizing Team – an interdisciplinary mix of thinkers, makers, and doers!
 
 <div class="tiles">
 
@@ -16,7 +16,7 @@ Meet an interdisciplinary mix of thinkers, makers, and doers!
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/StefanVanDerWalt.png" style="width: 150px;"/>
   <h2 class="post-title center-block"><a href="https://bids.berkeley.edu/people/st%C3%A9fan-van-der-walt">Stefan Van Der Walt, PhD</a></h2>
-  <p class="post-excerpt">Berkeley Institute for Data Science, CAL</p>
+  <p class="post-excerpt">Berkeley Institute for Data Science, UC Berkeley</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -34,25 +34,25 @@ Meet an interdisciplinary mix of thinkers, makers, and doers!
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/MaryanaAlegro.png" style="width: 150px;"/>
   <h2 class="post-title center-block"><a href="http://bids.berkeley.edu/people/Maryana-Alegro">Maryana Alegro, PhD</a></h2>
-  <p class="post-excerpt">Neurology - UCSF</p>
+  <p class="post-excerpt">Neurology, <br/> UCSF</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/ArielRokem.png" style="width: 150px;"/>
   <h2 class="post-title center-block"><a href="http://escience.washington.edu/people/ariel-rokem/">Ariel Rokem, PhD</a></h2>
-  <p class="post-excerpt">eScience Institute, UW</p>
+  <p class="post-excerpt">eScience Institute,<br/> Univeristy of Washington</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/ValentinaStaneva.png" style="width: 150px;"/>
   <h2 class="post-title center-block"><a href="http://escience.washington.edu/people/valentina-staneva/">Valentina Staneva, PhD</a></h2>
-  <p class="post-excerpt">eScience Institute, UW</p>
+  <p class="post-excerpt">eScience Institute,<br/> Univeristy of Washington</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/ElizabethBrashers.png" style="width: 150px;"/>
   <h2 class="post-title center-block">Elizabeth Brashers, MBA</h2>
-  <p class="post-excerpt">Assistant Dean <br/> UC Berkeley-UCSF Campus Liaison</p>
+  <p class="post-excerpt">UC Berkeley-UCSF Campus Liaison</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->

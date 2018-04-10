@@ -1,21 +1,22 @@
 # Site navigation links
 
-- title: "Registration 2018"
+- title: "ImageXD 2018"
   url: /registration/
-  excerpt: Information for current workshop
-  image:
-
-- title: "Workshops"
-  url: /workshops/
-  excerpt: Past workshops
-  image:
-
-- title: "Team"
-  url: /team/
-  excerpt: Meet an interdisciplinary mix of thinkers, makers, and doers.
+  excerpt: Information and registration for this year's workshop
   image:
 
 - title: "About"
   url: /about/
-  excerpt: Read our mission statement.
+  excerpt: 
   image:
+
+- title: "Past Workshops"
+  url: /workshops/
+  excerpt: Past workshops
+  image:
+
+- title: "Organizing Team"
+  url: /team/
+  excerpt: Meet the ImageXD 2018 Organizing Team
+  image:
+
