@@ -72,7 +72,7 @@ image:
 | 8:30-9:00   | <span class="badge warning">Coffee</span>  |
 |----
 | 9:00-9:30   | Dr. Ashish Raj -- UCSF (computer vision, signal processing, graph theory, medical imaging and informatics)  |
-| 9:30-10:00  | Dr. Janine Lupo -- Surbeck Laboratory of Advanced Imaging -- UCSF) | 
+| 9:30-10:00  | Dr. Janine Lupo -- Surbeck Laboratory of Advanced Imaging -- UCSF | 
 | 10:00-10:30 | TBA |
 |----
 | 10:30-10:50  | <span class="badge warning">Break</span>   |
