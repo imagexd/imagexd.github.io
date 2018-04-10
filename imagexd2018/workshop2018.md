@@ -78,14 +78,14 @@ image:
 | 10:30-10:50  | <span class="badge warning">Break</span>   |
 |----
 | 10:50-11:20  | Interactive Analysis and Visualization of Large Images in the Web Browser (Dr. Matt McCormick -- Kitware )  |
-| 11:20-11:50  | Introduction PyCroscopy (Dr. Maxim Ziatdinov -- Oak Ridge National Laboratory)   |
-| 11:50-12:20  | Speaker from Chan Zuckerberg Initiative (waiting for confirmation)   |
+| 11:20-11:50  | Introduction to PyCroscopy (Dr. Maxim Ziatdinov -- Oak Ridge National Laboratory)   |
+| 11:50-12:20  | Chan Zuckerberg Initiative |
 |----
 | 12:20-12:45  | <span class="badge warning">Lunch</span>  |
 | 12:45-1:45   | <span class="badge success">Panel over lunch</span> |
 |---
 | 1:45-2:00    | Break |
-| 2:00-5:00    | Hands-on learning    |
+| 2:00-5:00    | Hands-on learning |
 | 5:00-5:30    | Closing Remarks |
 																					
 
