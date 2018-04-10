@@ -22,17 +22,17 @@ image:
 | 8:30-9:00   | <span class="badge warning">Coffee</span>| 
 | 9:00-9:30   | Welcome Note|
 |----
-| 9:30-10:30  | Nelle/Stefan (BIDS): NumPy, SciPy |
-| 10:30-11:30 | Stefan (BIDS): image processing in the python ecosystem  |
+| 9:30-10:30  | An introduction to numerical analysis with Python (e.g. NumPy, SciPy, and Matplotlib) TBA |
+| 10:30-11:30 | Image processing in the Python ecosystem (e.g. scikit-image) (Dr. setfan Van Der Walt -- UC Berkeley) |
 |----
-| 11:30-1:00  | <span class="badge warning">Lunch</span>   |
+| 11:30-1:00  | <span class="badge warning">Lunch</span>   | 
 |----
-| 1:00-2:00   | Ariel Rokem (Univ of Washington): Keras   |
-| 2:00-3:00   | Peter Chang (UCSF): Tensorflow   |
+| 1:00-2:00   | Deep Learning Hands-on Demo with Keras (Dr. Ariel Rokem -- Univ of Washington) |
+| 2:00-3:00   | Deep Learning Hands-on Demo with Tensorflow (Dr. Peter Chang -- UCSF)   |
 |----
 | 3:00-3:30   | <span class="badge warning">Break</span>   |
 |----
-| 3:30-4:30   | Valentina Staneva (Univ of Washington): parallel tool within python (e.g. Dask)   |
+| 3:30-4:30   | Parallel processing tool within pyton (e.g. Dask) (Dr. Valentina Staneva -- Univ of Washington) |
 |----
 | 4:30-5:30   | discussion 
 
@@ -44,22 +44,22 @@ image:
 |:------------|:--------|
 | 8:30-9:00   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:00-9:30   | Astronomy: Zhao/Kyle? |
-| 9:30-10:00  | Materials: Ajo Franklin |
-| 10:00-10:30 | Georgia Gkioxari  |
+| 9:00-9:30   | TBA |
+| 9:30-10:00  | TBA |
+| 10:00-10:30 | TBA |
 |----
 | 10:30-10:50  | <span class="badge warning">Break</span>   |
 |----
-| 10:50-11:20  | Computational photography: (Maryana)   |
-| 11:20-11:50  | Mixed-scale: James Sethian (Dani)   |
-| 11:50-12:20  | John Canny: theme = deep net visualization, or interpretable driving models |
+| 10:50-11:20  | TBA  |
+| 11:20-11:50  | Speaker from Planet Labs Inc (waiting for confirmation)|
+| 11:50-12:20  | Deep net visualization, or interpretable driving models (Dr. John Canny -- UC Berkeley) |
 |----
 | 12:20-12:45  | <span class="badge warning">Lunch</span>  |
 | 12:45-1:45   | <span class="badge success">Panel over lunch</span> |
 | 1:45-2:00    | break/make up time/move to afternoon sessions|
 |----
-| 2:00-5:00    | Hands-on learning - need to design   |
-| 5:00-7:00    | <span class="badge danger">Social Event:</span> <br/>  "cross-pollination" with Chan-Zuckerberg's Microscopy software developers Near Bart  |
+| 2:00-5:00    | Hands-on learning  -- Pending Confirmation  |
+| 5:00-7:00    | <span class="badge danger">Social Event:</span> <br/>  "cross-pollination" with Chan-Zuckerberg's Microscopy software developers at Venue near BART  |
 
 
 ## Day 3, May 18th (AM: Talks, PM: Create)
@@ -77,15 +77,15 @@ image:
 |----
 | 10:30-10:50  | <span class="badge warning">Break</span>   |
 |----
-| 10:50-11:20  | Matt McCormick (Kitware) "Interactive Analysis and Visualization of Large Images in the Web Browser"  |
-| 11:20-11:50  | Maxim Ziatdinov of the PyCroscopy group (confirmed)   |
-| 11:50-12:20  | Someone from Planet (waiting for Kelsey Jordahl to confirm) |
+| 10:50-11:20  | Interactive Analysis and Visualization of Large Images in the Web Browser (Dr. Matt McCormick -- Kitware )  |
+| 11:20-11:50  | Introduction PyCroscopy (Dr. Maxim Ziatdinov -- Oak Ridge National Laboratory)   |
+| 11:50-12:20  | Speaker from Chan Zuckerberg Initiative (waiting for confirmation)   |
 |----
 | 12:20-12:45  | <span class="badge warning">Lunch</span>  |
-| 12:45-1:45   |  <span class="badge success">Panel over lunch</span> |
+| 12:45-1:45   | <span class="badge success">Panel over lunch</span> |
+|---
 | 1:45-2:00    | break/make up time/move to afternoon sessions|
-|----
-| 2:00-5:30    | Hands-on learning - need to design   |
+| 2:00-5:00    | Hands-on learning    |
+| 5:00-5:30    | Closing Remarks |
 																					
-******  Nick from Chan Zuckerberg (unconfirmed; let Stefan know if Stefan should get him or not)
 

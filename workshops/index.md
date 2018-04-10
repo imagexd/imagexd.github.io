@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-<figure>
+<!--<figure>
 	<a href="http://www.imagexd.org/2017/"><img src="{{ site.url }}/images/logo_eScience_2.png" style="width: 250px;"></a>
 	<figcaption>ImageXD Workshop 2017</figcaption>
 </figure>
@@ -19,7 +19,7 @@ image:
 <figure>
 	<a href="http://www.imagexd.org/2016/"><img src="{{ site.url }}/images/logo_BIDS_2.png" style="width: 250px;" ></a>
 	<figcaption>ImageXD Workshop 2017</figcaption>
-</figure>
+</figure>-->
 
 
 <div class="tiles">
