@@ -50,7 +50,7 @@ image:
 |----
 | 10:30-10:50  | <span class="badge warning">Break</span>   |
 |----
-| 10:50-11:20  | TBA  |
+| 10:50-11:20  | Dr. Natalie Larson -- In-situ x-ray computed tomography of defect evolution -- UC Santa Barbara |
 | 11:20-11:50  | Planet Labs Inc |
 | 11:50-12:20  | Dr. John Canny -- Deep net visualization, interpretable driving  -- UC Berkeley) |
 |----
