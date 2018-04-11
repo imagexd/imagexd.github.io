@@ -87,3 +87,5 @@ image:
 | 1:45-2:00    | Break |
 | 2:00-5:00    | Hands-on learning |
 | 5:00-5:30    | Closing Remarks |
+
+<a href="https://docs.google.com/forms/d/13gRMnLP3MTd3g6JoxfTZT0vBZqa10dE3Gg5HOwRR82Y/" class="btn"> Registration </a>

@@ -16,7 +16,7 @@ share: true
 ### When & What?
 
 May 16-18, 2018 <br />
-<a href="{{ site.url }}/imagexd2018/workshop2018" class="btn"> Program </a>
+<a href="{{ site.url }}/imagexd2018/workshop2018" class="btn"> Tentative Program </a>
 
 ### Where?
 
