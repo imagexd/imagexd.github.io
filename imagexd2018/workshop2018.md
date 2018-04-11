@@ -23,7 +23,7 @@ image:
 | 9:00-9:30   | Welcome |
 |----
 | 9:30-10:30  | An introduction to numerical analysis with Python (e.g. NumPy, SciPy, and Matplotlib) TBA |
-| 10:30-11:30 | Image processing in the Python ecosystem (e.g. scikit-image) (Dr. stefan Van Der Walt -- UC Berkeley) |
+| 10:30-11:30 | Image processing in the Python ecosystem (e.g. scikit-image) (Dr. Stefan Van Der Walt -- UC Berkeley) |
 |----
 | 11:30-1:00  | <span class="badge warning">Lunch</span>   |
 |----
@@ -44,7 +44,7 @@ image:
 |:------------|:--------|
 | 8:30-9:00   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:00-9:30   | Dr. John Canny -- Deep net visualization, interpretable driving  -- UC Berkeley) |
+| 9:00-9:30   | TBA |
 | 9:30-10:00  | Dr. Duygu Tosun -- The Center for Imaging of Neurodegenerative Diseases  -- UCSF |
 | 10:00-10:30 | Dr. James Coughlan -- Computer vision for the visually impaired -- SKI |
 |----
@@ -52,7 +52,7 @@ image:
 |----
 | 10:50-11:20  | TBA  |
 | 11:20-11:50  | Planet Labs Inc |
-| 11:50-12:20  | TBA |
+| 11:50-12:20  | Dr. John Canny -- Deep net visualization, interpretable driving  -- UC Berkeley) |
 |----
 | 12:20-12:45  | <span class="badge warning">Lunch</span>  |
 | 12:45-1:45   | <span class="badge success">Panel over lunch</span> |
