@@ -21,12 +21,13 @@ May 16-18, 2018 <br />
 ### Where?
 
 UC Berkeley <br />
+Berkeley Institute for Data Science (BIDS) <br />
 190 Doe Library <br />
 Berkeley, CA 94720 <br />
 
 ### Who?
 
-ImageXD workshops are open to faculty, and staff scientists, post-docs, researchers and graduate students across all disciplines, from universities, industry and national labs in the Bay Area and beyond.
+ImageXD workshops are open to anyone involved in diverse aspects of image analysis across disciplines, and includes representatives from universities, industry and national labs.
 
 <a href="https://docs.google.com/forms/d/13gRMnLP3MTd3g6JoxfTZT0vBZqa10dE3Gg5HOwRR82Y/" class="btn"> Registration </a>
 
