@@ -3,17 +3,27 @@ layout: archive
 title: "About"
 ---
 
-.
+Incredible advances are being made in image processing techniques,
+tools, and sampling modalities which, together with an increased
+accessibility to modern imaging equipment, has made image data
+ubiquitous across many fields, with scales ranging from microscopy to
+radio astronomy.
 
-Incredible advances are being made in image processing techniques and tools, but the scientists who use them typically don't have the opportunity to communicate with other scientists who work on similar problems in different domains.
+**ImageXD** aims to:
 
-The goal of **ImageXD** is bring together a cross-disciplinary community of researchers interested in all aspects of development and application of image-processing related research, who wouldn't normally cross paths, to see what intersections there are between their problems, and the way they apply, utilize, and develop image processing methods and algorithms.  
+- Fosters a cross-disciplinary community of image processing experts
+  from academia, research, and industry.
+- Develops a shared understanding of each other's use of image
+  processing data, algorithms, and software.
+- Learn from one another, through tutorials, and collaborative work
+  sessions, about available tools and methods, and the applicability
+  of these to various discipline-specific problems.
 
 <center>
 <figure>
-	<img class="w3-image"  src="{{ site.url }}/images/about.png" alt="Group" style="width: 600px;"/>
+  <img class="w3-image"  src="{{ site.url }}/images/about.png" alt="Group" style="width: 600px;"/>
 </figure>
 </center>
 
-We hope to provide a platform for such scientists to communicate with each other by introducing the problems they are working to solve in their research, the types of tools, algorithms, and approaches they have already developed or would like to develop in the future, and the potential collaborations or partnerships they seek to develop.  The workshop is three days: tutorials on the first, and talks & collaborative projects during the other two.
-
+Our [annual workshop](http://www.imagexd.org/imagexd2018/) is our main avenue
+for achieving these aims.
