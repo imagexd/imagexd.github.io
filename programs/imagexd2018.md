@@ -72,7 +72,7 @@ image:
 |:------------|:--------|
 | 8:30-9:00   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:00-9:30   | Ashish Raj --- omputer vision, signal processing, graph theory, medical imaging and informatics --- UCSF  |
+| 9:00-9:30   | Ashish Raj --- TBA --- UCSF |
 | 9:30-10:00  | Janine Lupo --- Surbeck Laboratory of Advanced Imaging --- UCSF |
 | 10:00-10:30 | James Sethian --- Mixed-scale convolutional neural networks --- CAMERA, Lawrence Berkeley National Laboratory |
 |----
