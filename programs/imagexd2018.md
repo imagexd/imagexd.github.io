@@ -59,7 +59,7 @@ image:
 | 12:45-1:45   | <span class="badge success">Panel over lunch</span> |
 | 1:45-2:00    | Break |
 |----
-| 2:00-5:00    | Hands-on learning |
+| 2:00-5:00    | Collaborative work session |
 | 5:00-7:00    | <span class="badge danger">Social Event:</span> <br/> Details to follow |
 
 
@@ -74,11 +74,11 @@ image:
 |----
 | 9:00-9:30   | Ashish Raj --- omputer vision, signal processing, graph theory, medical imaging and informatics --- UCSF  |
 | 9:30-10:00  | Janine Lupo --- Surbeck Laboratory of Advanced Imaging --- UCSF |
-| 10:00-10:30 | TBA |
+| 10:00-10:30 | James Sethian --- Mixed-scale convolutional neural networks --- CAMERA, Lawrence Berkeley National Laboratory |
 |----
 | 10:30-10:50  | <span class="badge warning">Break</span>   |
 |----
-| 10:50-11:20  | Interactive Analysis and Visualization of Large Images in the Web Browser (Matt McCormick --- Kitware )  |
+| 10:50-11:20  | Interactive Analysis and Visualization of Large Images in the Web Browser (Matt McCormick --- Kitware)  |
 | 11:20-11:50  | Deep learning for object detection/classification in Electron Microscopy (Maxim Ziatdinov --- Oak Ridge National Laboratory)  |
 | 11:50-12:20  | Chan Zuckerberg Initiative |
 |----
@@ -86,7 +86,7 @@ image:
 | 12:45-1:45   | <span class="badge success">Panel over lunch</span> |
 |---
 | 1:45-2:00    | Break |
-| 2:00-5:00    | Hands-on learning |
+| 2:00-5:00    | Collaborative work session |
 | 5:00-5:30    | Closing Remarks |
 
 <a href="https://docs.google.com/forms/d/13gRMnLP3MTd3g6JoxfTZT0vBZqa10dE3Gg5HOwRR82Y/" class="btn"> Registration </a>
