@@ -1,4 +1,4 @@
----
+OB---
 layout: archive
 title: "About"
 ---
@@ -11,11 +11,11 @@ radio astronomy.
 
 **ImageXD** aims to:
 
-- Fosters a cross-disciplinary community of image processing experts
+- Foster a cross-disciplinary community of image processing experts
   from academia, research, and industry.
-- Develops a shared understanding of each other's use of image
+- Develop a shared understanding of each other's use of image
   processing data, algorithms, and software.
-- Learn from one another, through tutorials, and collaborative work
+- Help us learn from one another, through tutorials, and collaborative work
   sessions, about available tools and methods, and the applicability
   of these to various discipline-specific problems.
 
