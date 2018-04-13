@@ -14,7 +14,7 @@ image:
 
 {% include toc.html %}
 
-## Day 1: Tue, May 16th (Learn)
+## Day 1: Wed, May 16th (Learn)
 
 #### Learn image analysis and deep learning tools
 
@@ -37,7 +37,7 @@ image:
 |----
 | 4:30-5:30   | Discussion |
 
-## Day 2: Wed, May 17th (AM: Talks, PM: Create)
+## Day 2: Thu, May 17th (AM: Talks, PM: Create)
 
 #### Tools and approaches from across disciplines + hands-on learning
 
@@ -63,7 +63,7 @@ image:
 | 5:00-7:00    | <span class="badge danger">Social Event:</span> <br/> Details to follow |
 
 
-## Day 3: Thu, May 18th (AM: Talks, PM: Create)
+## Day 3: Fri, May 18th (AM: Talks, PM: Create)
 
 ### Tools and approaches from across disciplines + hands-on learning
 
