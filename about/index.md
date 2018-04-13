@@ -1,4 +1,4 @@
-OB---
+---
 layout: archive
 title: "About"
 ---
