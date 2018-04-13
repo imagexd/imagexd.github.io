@@ -6,7 +6,7 @@ image:
 ---
 
 - [Register here](https://docs.google.com/forms/d/13gRMnLP3MTd3g6JoxfTZT0vBZqa10dE3Gg5HOwRR82Y/).
-- The [program for 2018 is now online](http://www.imagexd.org/programs/imagexd2018/).
+- The [tentative schedule for 2018 is now online](http://www.imagexd.org/programs/imagexd2018/).
 
 
 <!-- /.tiles -->
