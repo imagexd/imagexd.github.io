@@ -20,8 +20,8 @@ image:
 
 | Time        | Task    |
 |:------------|:--------|
-| 8:30-9:00   | <span class="badge warning">Coffee</span>|
-| 9:00-9:30   | Welcome |
+| 9:00-9:15   | <span class="badge warning">Coffee</span>|
+| 9:15-9:30   | Welcome |
 |----
 | 9:30-10:30  | An introduction to numerical analysis with Python (e.g. NumPy, SciPy, and Matplotlib) TBA |
 | 10:30-11:30 | Image Processing in Python (mainly scikit-image) (Stéfan van der Walt -- UC Berkeley) |
@@ -35,7 +35,7 @@ image:
 |----
 | 3:30-4:30   | Parallel processing tool within Python (e.g. Dask) (Valentina Staneva --- U. Washington) |
 |----
-| 4:30-5:30   | Discussion |
+| 4:30-5:00   | Discussion |
 
 ## Day 2: Thu, May 17th (AM: Talks, PM: Create)
 
@@ -43,9 +43,9 @@ image:
 
 | Time        | Task    |
 |:------------|:--------|
-| 8:30-9:00   | <span class="badge warning">Coffee</span>  |
+| 9:00-9:15   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:00-9:30   | TBA |
+| 9:15-9:30   | TBA |
 | 9:30-10:00  | Duygu Tosun --- The Center for Imaging of Neurodegenerative Diseases  --- UCSF |
 | 10:00-10:30 | James Coughlan --- Computer vision for the visually impaired --- SKERI |
 |----
@@ -70,13 +70,13 @@ image:
 
 | Time        | Task    |
 |:------------|:--------|
-| 8:30-9:00   | <span class="badge warning">Coffee</span>  |
+| 9:00-9:15   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:00-9:30   | Ashish Raj --- TBA --- UCSF |
-| 9:30-10:00  | Janine Lupo --- Surbeck Laboratory of Advanced Imaging --- UCSF |
-| 10:00-10:30 | James Sethian --- Mixed-scale convolutional neural networks --- CAMERA, Lawrence Berkeley National Laboratory |
+| 9:15-9:45   | Ashish Raj --- TBA --- UCSF |
+| 9:45-10:15  | Janine Lupo --- Surbeck Laboratory of Advanced Imaging --- UCSF |
+| 10:15-10:45 | James Sethian --- Mixed-scale convolutional neural networks --- CAMERA, Lawrence Berkeley National Laboratory |
 |----
-| 10:30-10:50  | <span class="badge warning">Break</span>   |
+| 10:45-10:50  | <span class="badge warning">Break</span>   |
 |----
 | 10:50-11:20  | Interactive Analysis and Visualization of Large Images in the Web Browser (Matt McCormick --- Kitware)  |
 | 11:20-11:50  | Deep learning for object detection/classification in Electron Microscopy (Maxim Ziatdinov --- Oak Ridge National Laboratory)  |
@@ -86,7 +86,7 @@ image:
 | 12:45-1:45   | <span class="badge success">Panel over lunch</span> |
 |---
 | 1:45-2:00    | Break |
-| 2:00-5:00    | Collaborative work session |
-| 5:00-5:30    | Closing Remarks |
+| 2:00-4:45    | Collaborative work session |
+| 4:45-5:00    | Closing Remarks |
 
 <a href="https://docs.google.com/forms/d/13gRMnLP3MTd3g6JoxfTZT0vBZqa10dE3Gg5HOwRR82Y/" class="btn"> Registration </a>
