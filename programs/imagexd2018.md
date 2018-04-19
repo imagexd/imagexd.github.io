@@ -74,16 +74,13 @@ image:
 | 9:45-10:15  | Janine Lupo --- Surbeck Laboratory of Advanced Imaging --- UCSF |
 | 10:15-10:45 | James Sethian --- Mixed-scale convolutional neural networks --- CAMERA, Lawrence Berkeley National Laboratory |
 |----
-| 10:45-10:50  | <span class="badge warning">Break</span>   |
+| 10:45-11:00  | <span class="badge warning">Break</span>   |
 |----
-| 10:50-11:20  | Interactive Analysis and Visualization of Large Images in the Web Browser (Matt McCormick --- Kitware)  |
-| 11:20-11:50  | Deep learning for object detection/classification in Electron Microscopy (Maxim Ziatdinov --- Oak Ridge National Laboratory)  |
-| 11:50-12:20  | Chan Zuckerberg Initiative |
+| 11:00-11:30  | Interactive Analysis and Visualization of Large Images in the Web Browser (Matt McCormick --- Kitware)  |
+| 11:30-12:00 | Deep learning for object detection/classification in Electron Microscopy (Maxim Ziatdinov --- Oak Ridge National Laboratory)  |
+| 12:00-12:30  | Chan Zuckerberg Initiative |
 |----
-| 12:20-12:45  | <span class="badge warning">Lunch</span>  |
-| 12:45-1:45   | <span class="badge success">Panel over lunch</span> |
-|---
-| 1:45-2:00    | Break |
+| 12:30-2:00  | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
 | 2:00-4:45    | Collaborative work session |
 | 4:45-5:00    | Closing Remarks |
 
