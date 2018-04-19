@@ -21,7 +21,7 @@ image:
 | Time        | Task    |
 |:------------|:--------|
 | 9:00-9:15   | <span class="badge warning">Coffee</span>|
-| 9:15-9:30   | Welcome |
+| 9:15-9:30   | Welcome with BIDS Director Saul Perlmutter  |
 |----
 | 9:30-10:30  | An introduction to numerical analysis with Python (e.g. NumPy, SciPy, and Matplotlib) TBA |
 | 10:30-11:30 | Image Processing in Python (mainly scikit-image) (Stéfan van der Walt -- UC Berkeley) |
