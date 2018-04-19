@@ -45,19 +45,17 @@ image:
 |:------------|:--------|
 | 9:00-9:15   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:15-9:30   | TBA |
-| 9:30-10:00  | Duygu Tosun --- The Center for Imaging of Neurodegenerative Diseases  --- UCSF |
-| 10:00-10:30 | James Coughlan --- Computer vision for the visually impaired --- SKERI |
+| 9:15-9:45   | Maxim Ziatdinov --- Deep learning for atomically-resolved imaging |
+| 9:45-10:15  | Duygu Tosun --- The Center for Imaging of Neurodegenerative Diseases  --- UCSF |
+| 10:15-10:45 | James Coughlan --- Computer vision for the visually impaired --- SKERI |
 |----
-| 10:30-10:50  | <span class="badge warning">Break</span>   |
+| 10:45-11:00  | <span class="badge warning">Break</span>   |
 |----
-| 10:50-11:20  | Natalie Larson --- In-situ X-ray computed tomography for defect evolution --- UC Santa Barbara |
-| 11:20-11:50  | Amit Kapadia --- Building Global Mosaics --- Planet |
-| 11:50-12:20  | John Canny --- Deep net visualization, interpretable driving --- UC Berkeley  |
+| 11:00-11:30  | Natalie Larson --- In-situ X-ray computed tomography for defect evolution --- UC Santa Barbara |
+| 11:30-12:00  | Amit Kapadia --- Building Global Mosaics --- Planet |
+| 12:00-12:30  | John Canny --- Deep net visualization, interpretable driving --- UC Berkeley  |
 |----
-| 12:20-12:45  | <span class="badge warning">Lunch</span>  |
-| 12:45-1:45   | <span class="badge success">Panel over lunch</span> |
-| 1:45-2:00    | Break |
+| 12:30-2:00   | <span class="badge warning">Lunch</span> <\br> <span class="badge success">Panel over lunch</span> |
 |----
 | 2:00-5:00    | Collaborative work session |
 | 5:00-7:00    | <span class="badge danger">Social Event:</span> <br/> Details to follow |
