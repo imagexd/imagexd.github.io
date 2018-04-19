@@ -55,7 +55,7 @@ image:
 | 11:30-12:00  | Amit Kapadia --- Building Global Mosaics --- Planet |
 | 12:00-12:30  | John Canny --- Deep net visualization, interpretable driving --- UC Berkeley  |
 |----
-| 12:30-2:00   | <span class="badge warning">Lunch</span> <\br> <span class="badge success">Panel over lunch</span> |
+| 12:30-2:00   | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
 |----
 | 2:00-5:00    | Collaborative work session |
 | 5:00-7:00    | <span class="badge danger">Social Event:</span> <br/> Details to follow |
