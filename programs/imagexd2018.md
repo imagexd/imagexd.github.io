@@ -77,7 +77,7 @@ image:
 | 10:45-11:00  | <span class="badge warning">Break</span>   |
 |----
 | 11:00-11:30  | Interactive Analysis and Visualization of Large Images in the Web Browser (Matt McCormick --- Kitware)  |
-| 11:30-12:00 | Deep learning for object detection/classification in Electron Microscopy (Maxim Ziatdinov --- Oak Ridge National Laboratory)  |
+| 11:30-12:00 | Suhas Somnath --- pycroscopy --- Oak Ridge National Laboratory  |
 | 12:00-12:30  | Chan Zuckerberg Initiative |
 |----
 | 12:30-2:00  | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
