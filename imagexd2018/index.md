@@ -29,6 +29,6 @@ Berkeley, CA 94720 <br />
 
 ImageXD workshops are open to anyone involved in diverse aspects of image analysis across disciplines, and includes representatives from universities, industry and national labs.
 
-<a href="https://docs.google.com/forms/d/13gRMnLP3MTd3g6JoxfTZT0vBZqa10dE3Gg5HOwRR82Y/" class="btn"> Registration </a>
+<a class="btn"> Registration is Closed </a>
 
 

@@ -84,4 +84,4 @@ image:
 | 2:00-4:45    | Collaborative work session |
 | 4:45-5:00    | Closing Remarks |
 
-<a href="https://docs.google.com/forms/d/13gRMnLP3MTd3g6JoxfTZT0vBZqa10dE3Gg5HOwRR82Y/" class="btn"> Registration </a>
+<a class="btn"> Registration is closed </a>
