@@ -33,7 +33,7 @@ image:
 |----
 | 3:00-3:30   | <span class="badge warning">Break</span>   |
 |----
-| 3:30-4:30   | Parallel processing tool within Python (e.g. Dask) (Valentina Staneva --- U. Washington) |
+| 3:30-4:30   | Parallel processing tool within Python and Dask (Valentina Staneva --- U. Washington) |
 |----
 | 4:30-5:00   | Discussion |
 
@@ -45,8 +45,8 @@ image:
 |:------------|:--------|
 | 9:00-9:15   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:15-9:45   | Maxim Ziatdinov --- Deep learning for atomically-resolved imaging |
-| 9:45-10:15  | Duygu Tosun --- The Center for Imaging of Neurodegenerative Diseases  --- UCSF |
+| 9:15-9:45   | Duygu Tosun --- The Center for Imaging of Neurodegenerative Diseases  --- UCSF |
+| 9:45-10:15  | Maxim Ziatdinov --- Deep learning for atomically-resolved imaging |
 | 10:15-10:45 | James Coughlan --- Computer vision for the visually impaired --- SKERI |
 |----
 | 10:45-11:00  | <span class="badge warning">Break</span>   |
