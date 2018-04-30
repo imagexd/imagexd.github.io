@@ -49,16 +49,16 @@ image:
 | 9:45-10:15  | Maxim Ziatdinov --- Deep learning for atomically-resolved imaging --- Oak Ridge National Laboratory |
 | 10:15-10:45 | James Coughlan --- Computer vision for the visually impaired --- Smith-Kettlewell Eye Research Institute |
 |----
-| 10:45-11:00  | <span class="badge warning">Break</span>   |
+| 10:45-11:00 | <span class="badge warning">Break</span>   |
 |----
-| 11:00-11:30  | Natalie Larson --- In-situ X-ray computed tomography for defect evolution --- UC Santa Barbara |
-| 11:30-12:00  | Amit Kapadia --- Building Global Mosaics --- Planet |
-| 12:00-12:30  | John Canny --- Deep net visualization, interpretable driving --- UC Berkeley  |
+| 11:00-11:30 | Amit Kapadia --- Building Global Mosaics --- Planet |
+| 11:30-12:00 | Natalie Larson --- In-situ X-ray computed tomography for defect evolution --- UC Santa Barbara |
+| 12:00-12:30 | John Canny --- Deep net visualization, interpretable driving --- UC Berkeley  |
 |----
-| 12:30-2:00   | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
+| 12:30-2:00  | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
 |----
-| 2:00-5:00    | Collaborative work session |
-| 5:00-7:00    | <span class="badge danger">Social Event:</span> <br/> Details to follow |
+| 2:00-5:00   | Collaborative work session |
+| 5:00-7:00   | <span class="badge danger">Social Event:</span> <br/> Details to follow |
 
 
 ## Day 3: Fri, May 18th (AM: Talks, PM: Create)
@@ -70,18 +70,18 @@ image:
 |:------------|:--------|
 | 9:00-9:15   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:15-9:45   | Ashish Raj --- TBA --- UCSF |
-| 9:45-10:15  | Janine Lupo --- Surbeck Laboratory of Advanced Imaging --- UCSF |
-| 10:15-10:45 | James Sethian --- Mixed-scale convolutional neural networks --- CAMERA, Lawrence Berkeley National Laboratory |
+| 9:15-9:45   | Interactive Analysis and Visualization of Large Images in the Web Browser (Matt McCormick --- Kitware)  |
+| 9:45-10:15  | Suhas Somnath --- pycroscopy --- Oak Ridge National Laboratory  |
+| 10:15-10:45 | Janine Lupo --- Surbeck Laboratory of Advanced Imaging --- UCSF |
 |----
-| 10:45-11:00  | <span class="badge warning">Break</span>   |
+| 10:45-11:00 | <span class="badge warning">Break</span>   |
 |----
-| 11:00-11:30  | Interactive Analysis and Visualization of Large Images in the Web Browser (Matt McCormick --- Kitware)  |
-| 11:30-12:00 | Suhas Somnath --- pycroscopy --- Oak Ridge National Laboratory  |
-| 12:00-12:30  | Chan Zuckerberg Initiative |
+| 11:00-11:30 | James Sethian --- Mixed-scale convolutional neural networks --- CAMERA, Lawrence Berkeley National Laboratory |
+| 11:30-12:00 | Ashish Raj --- TBA --- UCSF |
+| 12:00-12:30 | Chan Zuckerberg Initiative |
 |----
 | 12:30-2:00  | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
-| 2:00-4:45    | Collaborative work session |
-| 4:45-5:00    | Closing Remarks |
+| 2:00-4:45   | Collaborative work session |
+| 4:45-5:00   | Closing Remarks |
 
 <a class="btn"> Registration is closed </a>
