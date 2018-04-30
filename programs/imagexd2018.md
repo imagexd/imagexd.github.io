@@ -46,8 +46,8 @@ image:
 | 9:00-9:15   | <span class="badge warning">Coffee</span>  |
 |----
 | 9:15-9:45   | Duygu Tosun --- The Center for Imaging of Neurodegenerative Diseases  --- UCSF |
-| 9:45-10:15  | Maxim Ziatdinov --- Deep learning for atomically-resolved imaging |
-| 10:15-10:45 | James Coughlan --- Computer vision for the visually impaired --- SKERI |
+| 9:45-10:15  | Maxim Ziatdinov --- Deep learning for atomically-resolved imaging --- Oak Ridge National Laboratory |
+| 10:15-10:45 | James Coughlan --- Computer vision for the visually impaired --- Smith-Kettlewell Eye Research Institute |
 |----
 | 10:45-11:00  | <span class="badge warning">Break</span>   |
 |----
