@@ -28,7 +28,7 @@ image:
 |----
 | 11:30-1:00  | <span class="badge warning">Lunch</span>   |
 |----
-| 1:00-2:00   | Deep Learning Hands-on Demo with Keras (Ariel Rokem --- U. Washington)    |
+| 1:00-2:00   | [https://github.com/arokem/conv-nets](Deep Learning Hands-on Demo with Keras) (Ariel Rokem --- U. Washington) |
 | 2:00-3:00   | Deep Learning Hands-on Demo with Tensorflow (Peter Chang --- UCSF)  |
 |----
 | 3:00-3:30   | <span class="badge warning">Break</span>   |
