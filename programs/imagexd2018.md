@@ -57,7 +57,8 @@ image:
 |----
 | 12:30-2:00  | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
 |----
-| 2:00-5:00   | Collaborative work session |
+| 2:00-2:30   | John Kirkham --- Interactively analyzing larger than memory neural imaging data --- Howard Hughes Medical Institute|
+| 2:30-5:00   | Collaborative work session |
 | 5:00-7:00   | <span class="badge danger">Social Event:</span> <br/> Details to follow |
 
 
