@@ -59,7 +59,7 @@ image:
 |----
 | 2:00-2:30   | John Kirkham --- Interactively analyzing larger than memory neural imaging data --- Howard Hughes Medical Institute|
 | 2:30-5:00   | Collaborative work session |
-| 5:00-7:00   | <span class="badge danger">Social Event:</span> <br/> Details to follow |
+| 5:00-10:00   | <span class="badge danger">Social Event at Galvanize - San Francisco (SoMa)</span> <br/> “Come join a computational get together hosted by the Chan Zuckerberg Initiaitive with folks thinking about image analysis and visualization applied to a variety of domains. There will be science, games, coding, beer, wine, food, and fun! Meet new friends, learn cool tools, and look at awesome images.” |
 
 
 ## Day 3: Fri, May 18th (AM: Talks, PM: Create)
@@ -79,7 +79,7 @@ image:
 |----
 | 11:00-11:30 | James Sethian --- Mixed-scale convolutional neural networks --- CAMERA, Lawrence Berkeley National Laboratory |
 | 11:30-12:00 | Ashish Raj --- TBA --- UCSF |
-| 12:00-12:30 | Chan Zuckerberg Initiative |
+| 12:00-12:30 | Deep Ganguli --- Starfish: A Python library for Image Based Transcriptomics --- Chan Zuckerberg Initiative |
 |----
 | 12:30-2:00  | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
 | 2:00-4:45   | Collaborative work session |
