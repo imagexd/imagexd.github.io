@@ -72,7 +72,7 @@ image:
 | 9:00-9:15   | <span class="badge warning">Coffee</span>  |
 |----
 | 9:15-9:45   | Matt McCormick --- Interactive Analysis and Visualization of Large Images in the Web Browser  --- Kitware  |
-| 9:45-10:15  | Suhas Somnath --- pycroscopy --- Oak Ridge National Laboratory  |
+| 9:45-10:15  | Suhas Somnath --- Pycroscopy - a python package for analyzing, storing, and visualizing multidimensional scientific imaging data --- Oak Ridge National Laboratory  |
 | 10:15-10:45 | Janine Lupo --- Surbeck Laboratory of Advanced Imaging --- UCSF |
 |----
 | 10:45-11:00 | <span class="badge warning">Break</span>   |
