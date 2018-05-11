@@ -23,8 +23,8 @@ image:
 | 9:00-9:15   | <span class="badge warning">Coffee</span>|
 | 9:15-9:30   | Welcome with BIDS Director Saul Perlmutter  |
 |----
-| 9:30-10:30  | An introduction to numerical analysis with Python (e.g. NumPy, SciPy, and Matplotlib) TBA |
-| 10:30-11:30 | Image Processing in Python (mainly scikit-image) (Stéfan van der Walt -- UC Berkeley) |
+| 9:30-10:30  | Introduction to numerical analysis with Python (e.g. NumPy, SciPy, and Matplotlib) (Stéfan van der Walt -- UC Berkeley) |
+| 10:30-11:30 | Image Processing in Python (scikit-image) (Stéfan van der Walt -- UC Berkeley) |
 |----
 | 11:30-1:00  | <span class="badge warning">Lunch</span>   |
 |----
@@ -71,13 +71,13 @@ image:
 |:------------|:--------|
 | 9:00-9:15   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:15-9:45   | Interactive Analysis and Visualization of Large Images in the Web Browser (Matt McCormick --- Kitware)  |
+| 9:15-9:45   | Matt McCormick --- Interactive Analysis and Visualization of Large Images in the Web Browser  --- Kitware  |
 | 9:45-10:15  | Suhas Somnath --- pycroscopy --- Oak Ridge National Laboratory  |
 | 10:15-10:45 | Janine Lupo --- Surbeck Laboratory of Advanced Imaging --- UCSF |
 |----
 | 10:45-11:00 | <span class="badge warning">Break</span>   |
 |----
-| 11:00-11:30 | James Sethian --- Mixed-scale convolutional neural networks --- CAMERA, Lawrence Berkeley National Laboratory |
+| 11:00-11:30 | James Sethian --- Mathematics for image across domains --- CAMERA, Lawrence Berkeley National Laboratory |
 | 11:30-12:00 | Ashish Raj --- TBA --- UCSF |
 | 12:00-12:30 | Deep Ganguli --- Starfish: A Python library for Image Based Transcriptomics --- Chan Zuckerberg Initiative |
 |----
