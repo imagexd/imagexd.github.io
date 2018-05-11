@@ -45,7 +45,7 @@ image:
 |:------------|:--------|
 | 9:00-9:15   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:15-9:45   | Maxim Ziatdinov --- Deep learning for atomically-resolved imaging --- Oak Ridge National Laboratory |
+| 9:15-9:45   | Maxim Ziatdinov --- Deep learning for atomically resolved imaging techniques: chemical identification and tracking local transformations --- Oak Ridge National Laboratory |
 | 9:45-10:15  | Duygu Tosun --- The Center for Imaging of Neurodegenerative Diseases  --- UCSF |
 | 10:15-10:45 | James Coughlan --- Computer vision for the visually impaired --- Smith-Kettlewell Eye Research Institute |
 |----
