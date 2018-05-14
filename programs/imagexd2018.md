@@ -10,7 +10,7 @@ image:
   teaser:  
 ---
 
-#### Tentative Program
+#### Program
 
 {% include toc.html %}
 
