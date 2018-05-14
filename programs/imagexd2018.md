@@ -78,7 +78,7 @@ image:
 | 10:45-11:00 | <span class="badge warning">Break</span>   |
 |----
 | 11:00-11:30 | James Sethian --- Mathematics for image across domains --- CAMERA, Lawrence Berkeley National Laboratory |
-| 11:30-12:00 | Ashish Raj --- TBA --- UCSF |
+| 11:30-12:00 | Ashish Raj --- Beyond images: Opportunities for modeling of diseases using image-processed data --- UCSF |
 | 12:00-12:30 | Deep Ganguli --- Starfish: A Python library for Image Based Transcriptomics --- Chan Zuckerberg Initiative |
 |----
 | 12:30-2:00  | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
