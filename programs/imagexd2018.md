@@ -58,8 +58,8 @@ image:
 | 12:30-2:00  | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
 |----
 | 2:00-2:30   | John Kirkham --- Interactively analyzing larger than memory neural imaging data --- Howard Hughes Medical Institute|
-| 2:30-5:00   | Collaborative work session |
-| 5:00-10:00   | <span class="badge danger">Social Event at Galvanize - San Francisco (SoMa)</span> <br/> “Come join a computational get together **hosted by the Chan Zuckerberg Initiaitive** with folks thinking about image analysis and visualization applied to a variety of domains. There will be science, games, coding, beer, wine, food, and fun! Meet new friends, learn cool tools, and look at awesome images.” |
+| 2:30-5:00   | Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/ImageXD2018"> Hack Proposals</a>|
+| 5:00-10:00   | <span class="badge danger">Social Event at Galvanize - San Francisco (SoMa)</span> <br/> “Come join a computational get together **hosted by the Chan Zuckerberg Initiative** with folks thinking about image analysis and visualization applied to a variety of domains. There will be science, games, coding, beer, wine, food, and fun! Meet new friends, learn cool tools, and look at awesome images.” |
 
 
 ## Day 3: Fri, May 18th (AM: Talks, PM: Create)
@@ -82,7 +82,7 @@ image:
 | 12:00-12:30 | Deep Ganguli --- Starfish: A Python library for Image Based Transcriptomics --- Chan Zuckerberg Initiative |
 |----
 | 12:30-2:00  | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
-| 2:00-4:45   | Collaborative work session |
+| 2:00-4:45   | Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/ImageXD2018"> Hack Proposals</a>|
 | 4:45-5:00   | Closing Remarks |
 
 <a class="btn"> Registration is closed </a>
