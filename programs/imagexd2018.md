@@ -46,7 +46,7 @@ image:
 | 9:00-9:15   | <span class="badge warning">Coffee</span>  |
 |----
 | 9:15-9:45   | Maxim Ziatdinov --- Deep learning for atomically resolved imaging techniques: chemical identification and tracking local transformations --- Oak Ridge National Laboratory |
-| 9:45-10:15  | Duygu Tosun --- The Center for Imaging of Neurodegenerative Diseases  --- UCSF |
+| 9:45-10:15  | Duygu Tosun --- Neuroimaging biomarkers of neurodegenerative diseases and psychiatric disorders  --- UCSF |
 | 10:15-10:45 | James Coughlan --- Computer vision for the visually impaired --- Smith-Kettlewell Eye Research Institute |
 |----
 | 10:45-11:00 | <span class="badge warning">Break</span>   |
@@ -59,7 +59,7 @@ image:
 |----
 | 2:00-2:30   | John Kirkham --- Interactively analyzing larger than memory neural imaging data --- Howard Hughes Medical Institute|
 | 2:30-5:00   | Collaborative work session |
-| 5:00-10:00   | <span class="badge danger">Social Event at Galvanize - San Francisco (SoMa)</span> <br/> “Come join a computational get together hosted by the Chan Zuckerberg Initiaitive with folks thinking about image analysis and visualization applied to a variety of domains. There will be science, games, coding, beer, wine, food, and fun! Meet new friends, learn cool tools, and look at awesome images.” |
+| 5:00-10:00   | <span class="badge danger">Social Event at Galvanize - San Francisco (SoMa)</span> <br/> “Come join a computational get together **hosted by the Chan Zuckerberg Initiaitive** with folks thinking about image analysis and visualization applied to a variety of domains. There will be science, games, coding, beer, wine, food, and fun! Meet new friends, learn cool tools, and look at awesome images.” |
 
 
 ## Day 3: Fri, May 18th (AM: Talks, PM: Create)
@@ -73,7 +73,7 @@ image:
 |----
 | 9:15-9:45   | Matt McCormick --- Interactive Analysis and Visualization of Large Images in the Web Browser  --- Kitware  |
 | 9:45-10:15  | Suhas Somnath --- Pycroscopy - a python package for analyzing, storing, and visualizing multidimensional scientific imaging data --- Oak Ridge National Laboratory  |
-| 10:15-10:45 | Janine Lupo --- Surbeck Laboratory of Advanced Imaging --- UCSF |
+| 10:15-10:45 | Janine Lupo --- Challenges in Identifying & Translating Quantitative MR Imaging Markers to Evaluate the Effects of Therapy in Patients with Brain Tumors --- UCSF |
 |----
 | 10:45-11:00 | <span class="badge warning">Break</span>   |
 |----
