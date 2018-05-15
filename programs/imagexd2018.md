@@ -33,7 +33,7 @@ image:
 |----
 | 3:00-3:30   | <span class="badge warning">Break</span>   |
 |----
-| 3:30-4:30   | Parallel processing tool within Python and Dask (Valentina Staneva --- U. Washington) |
+| 3:30-4:30   | [Parallel processing tool within Python and Dask](https://github.com/valentina-s/Dask_ImageXD_2018) (Valentina Staneva --- U. Washington) |
 |----
 | 4:30-5:00   | Discussion |
 
