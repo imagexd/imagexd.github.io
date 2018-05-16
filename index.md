@@ -6,5 +6,5 @@ image:
 ---
 
 <!-- - [Registration is closed]. -->
-<!-- - The [Schedule for 2018 is now online](http://www.imagexd.org/programs/imagexd2018/). -->
+ - The [Schedule for 2018 is now online](http://www.imagexd.org/programs/imagexd2018/).
 
