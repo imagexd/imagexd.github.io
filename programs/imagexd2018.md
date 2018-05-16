@@ -52,7 +52,7 @@ image:
 | 10:45-11:00 | <span class="badge warning">Break</span>   |
 |----
 | 11:00-11:30 | Amit Kapadia --- Building Global Mosaics --- Planet |
-| 11:30-12:00 | Natalie Larson --- In-situ X-ray computed tomography for defect evolution --- UC Santa Barbara [samples](https://drive.google.com/drive/folders/1vLhv4iFleESxue3Ca3DYHYjbIQsShYCj?usp=sharing)|
+| 11:30-12:00 | Natalie Larson --- In-situ X-ray computed tomography for defect evolution --- UC Santa Barbara [[samples]](https://drive.google.com/drive/folders/1vLhv4iFleESxue3Ca3DYHYjbIQsShYCj?usp=sharing)|
 | 12:00-12:30 | John Canny --- Deep net visualization, interpretable driving --- UC Berkeley  |
 |----
 | 12:30-2:00  | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> |
