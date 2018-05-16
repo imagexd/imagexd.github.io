@@ -11,24 +11,20 @@ image:
   thumb:
 share: true
 ---
-<img class='pull-right' src="{{ site.baseurl }}/images/doe-floorplan.jpg" style="width: 450px;"/>
 
-### When & What?
+### When, Where, Who?
 
 May 16-18, 2018<br />
-<a href="{{ site.url }}/programs/imagexd2018" class=".btn-inverse">Program </a>
-
-### Where?
 
 UC Berkeley <br />
 Berkeley Institute for Data Science (BIDS) <br />
 190 Doe Library <br />
 Berkeley, CA 94720 <br />
 
-### Who?
-
 ImageXD workshops are open to anyone involved in diverse aspects of image analysis across disciplines, and includes representatives from universities, industry and national labs.
 
-<a class="btn"> Registration is Closed </a>
+### Agenda
+<a href="{{ site.url }}/programs/imagexd2018" class=".btn-inverse"> The 2018 Schedule </a>
 
-
+### Building Map
+<img src="{{ site.baseurl }}/images/doe-floorplan.jpg" style="width: 900px;"/>
