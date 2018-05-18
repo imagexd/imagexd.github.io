@@ -59,8 +59,7 @@ image:
 |----
 | 2:00-2:30   | John Kirkham --- Interactively analyzing larger than memory neural imaging data --- Howard Hughes Medical Institute|
 | 2:30-5:00   | Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/ImageXD2018"> Click for Hack Proposals</a>|
-| 5:00-10:00   | <span class="badge danger">Social Event at Galvanize - San Francisco (SoMa)</span> <br/> “Come join a computational get together **hosted by the Chan Zuckerberg Initiative** with folks thinking about image analysis and visualization applied to a variety of domains. There will be science, games, coding, beer, wine, food, and fun! Meet new friends, learn cool tools, and look at awesome images.” |
-
+| 5:00-10:00   | <span class="badge danger">Social Event at Galvanize - San Francisco (SoMa)</span> <br/> “Come join a computational get together **hosted by the Chan Zuckerberg Initiative** with folks thinking about image analysis and visualization applied to a variety of domains. There will be science, games, coding, beer, wine, food, and fun! Meet new friends, learn cool tools, and look at awesome images.” <br/> [Transportation:](https://www.google.com/maps/dir/Downtown+Berkeley,+Berkeley,+CA/44+Tehama+St,+San+Francisco,+CA+94105/@37.8282508,-122.3688948,13z/data=!4m14!4m13!1m5!1m1!1s0x80857e9c44a8c90f:0xee9ae94cbcd615ec!2m2!1d-122.2696423!2d37.8692584!1m5!1m1!1s0x8085807c)  The easiest way to get to Galvanize is to take BART from Downtown Berkeley to the Montgomery Street Station.  44 Tehama St is about an 8 minute walk.  Parking is limited in the area.|
 
 ## Day 3: Fri, May 18th (AM: Talks, PM: Create)
 
