@@ -1,17 +1,14 @@
-# ImageXD 2008 Workshop Website
+# ImageXD website
 
-This Jekyll site will be hosted on [ImageXD](http://www.imagexd.org/) with new design and some modification.  But right now is hosted [HERE](https://ImageXD2018.github.io/)
+Source for the landing page at <https://imagexd.github.io/>.
 
-I'm currently playing around to learn (*work in progress*).
+Each workshop has its own repository, served by GitHub Pages as a
+project site:
 
-![screenshot of ImageXD](https://github.com/imagexd/imagexd.github.io/blob/master/images/banner-img.jpg)
+- [imagexd/2016](https://github.com/imagexd/2016) → <https://imagexd.github.io/2016/>
+- [imagexd/2017](https://github.com/imagexd/2017) → <https://imagexd.github.io/2017/>
+- [imagexd/2018](https://github.com/imagexd/2018) → <https://imagexd.github.io/2018/>
 
----
-
-## Notable Features
-
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+The 2018 site was served from the root of this repository. The pages
+under `about/`, `imagexd2018/`, `programs/`, `registration/`, `team/`,
+and `workshops/` redirect those paths to `/2018/`.
