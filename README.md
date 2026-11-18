@@ -1,6 +1,8 @@
 # ImageXD website
 
-Source for the landing page at <https://imagexd.github.io/>.
+Source for the landing page at <https://imagexd.github.io/>, an archive
+of the ImageXD workshops from 2016 to 2019. The current home of ImageXD
+is <http://imagexd.org/>.
 
 Each workshop has its own repository, served by GitHub Pages as a
 project site:
